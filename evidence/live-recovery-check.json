@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "recordedAt": "2026-10-31T14:14:28Z",
+  "mode": "LIVE",
+  "status": "FAILED",
+  "runId": "planpatch-680c3e49-c190-4f53-99c9-b12080f7eda7",
+  "productRevision": "e4c3b98126c76268ae0a2cb8938288377945ef04470203097dfc69a35bade4b5",
+  "observations": {
+    "metadataPreflight": {
+      "method": "GET",
+      "requestCount": 2,
+      "httpStatuses": [
+        200,
+        200
+      ],
+      "observedAtUtc": [
+        "2026-10-31T14:02:20.704Z",
+        "2026-10-31T14:02:20.711Z"
+      ],
+      "scope": "metadata only"
+    },
+    "liveRun": {
+      "startedAtUtc": "2026-10-31T14:06:50.007Z",
+      "completedAtUtc": "2026-10-31T14:07:33.011Z",
+      "realGenerationPosts": 2,
+      "fakeGenerationPosts": 0,
+      "resultCode": "MODEL_MISMATCH",
+      "httpStatusAgentB": 200,
+      "agentBValidation": "decodeSuccess requires record(parsed) and parsed.model === requested; validation failed",
+      "returnedModelValueRetained": false,
+      "agentARemoteOutcome": "UNKNOWN",
+      "clientPostIntervalsOverlapped": true,
+      "serverSideConcurrentCompletionProven": false,
+      "agentAOutcome": "ABORTED",
+      "agentAHttpStatus": null,
+      "agentALocallyAborted": true,
+      "agentBProviderError": "MODEL_MISMATCH"
+    }
+  },
+  "acceptance": {
+    "validOutputsAccepted": 0,
+    "evidencePublished": 0,
+    "ownerAgentDispatched": false,
+    "patchApplied": false,
+    "rechecksPublished": false,
+    "proposalVersion": 0,
+    "evidenceVersion": 0,
+    "A01": "PARTIAL_CLIENT_INTERVAL_OVERLAP_ONLY",
+    "A02": "NOT_RUN",
+    "liveAcceptance": "NOT_CHECKED",
+    "readyToSubmit": false,
+    "platformSubmission": "NOT_SUBMITTED"
+  },
+  "budget": {
+    "maximumSpendCny": "5",
+    "maximumTotalPosts": 8,
+    "historicalReservationsRetained": 3,
+    "maximumNewPosts": 4,
+    "newReservations": 3,
+    "newRealGenerationPosts": 2,
+    "newFailedPostReservations": 2,
+    "newIncompleteRevisionReservations": 1,
+    "cumulativeReservations": 6,
+    "remainingPostCapacity": 2,
+    "remainingCapacityUsable": false,
+    "remoteUsage": "UNKNOWN",
+    "automaticRetries": 0,
+    "fallbacks": 0,
+    "refundsOrReset": 0,
+    "halted": true,
+    "haltCode": "MODEL_MISMATCH"
+  },
+  "historicalEvidence": {
+    "priorConnectionCheck": "evidence/connection-check.json",
+    "priorStatus": "BLOCKED_TRANSPORT_PREFLIGHT",
+    "priorRecordPreserved": true,
+    "interpretation": "This is an earlier TLS/transport observation, not the status of this recovery."
+  },
+  "limits": [
+    "HTTP 200 from Agent B does not mean its content passed response validation.",
+    "The returned model value was not retained; the exact reason for the validation failure cannot be determined from this record.",
+    "Client request overlap does not establish successful overlapping server inference.",
+    "Remote cancellation and usage remain unknown; no billing statement was captured.",
+    "Offline tests were not rerun for this status update; existing test counts remain prior evidence."
+  ],
+  "executionDirectoryId": "d301d5f6-e90d-48db-945f-91ccaaec101d"
+}
