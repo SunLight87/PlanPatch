@@ -1,0 +1,4619 @@
+{
+  "fullLicenseReadyClaimed": false,
+  "legalClearanceClaimed": false,
+  "packages": [
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-srbJV7JKsc5cQ6eVuFzjZO7UR3xEPJqPamHFIe29bs38Ij2IripoAhC0S5NslNbaFUYqBKypmmpzMTpqfHEUDw==",
+      "lockPath": "node_modules/@anthropic-ai/sdk",
+      "manifestMatched": true,
+      "name": "@anthropic-ai/sdk",
+      "noticeArtifacts": [
+        {
+          "bytes": 1056,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_anthropic-ai_sdk@0.74.0--682d4010/LICENSE",
+          "readEntireFile": true,
+          "sha256": "8bf96984ff8bcfae7e48cae76a529e8a25317ba9e02abf7fd3cc64fdf95657a6",
+          "source": "node_modules/@anthropic-ai/sdk/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@anthropic-ai/sdk/-/sdk-0.74.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.74.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-NpugTzbKgGrNe45Ui32cN8vCFFMxVtP/9rtfwv0nP5FRDAjvYBxJcLVpYA9mr1jxP6cnIT7x9LUzuDTbWYYNRA==",
+      "lockPath": "node_modules/@babel/runtime",
+      "manifestMatched": true,
+      "name": "@babel/runtime",
+      "noticeArtifacts": [
+        {
+          "bytes": 1106,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_babel_runtime@7.29.10--b0d8c4c3/LICENSE",
+          "readEntireFile": true,
+          "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+          "source": "node_modules/@babel/runtime/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.29.10.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.29.10"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-60c79uXpR0a47bmGqDxbXEBuQUalNmwo5mx5kqb91jIW4FoqpsLSt86DeVhRhtH5+s/16Wqxt3sXzFQn2U1OHQ==",
+      "lockPath": "node_modules/@google/genai",
+      "manifestMatched": true,
+      "name": "@google/genai",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_google_genai@2.32.0--9851ba26/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/@google/genai/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@google/genai/-/genai-2.32.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.32.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-MgP/I06GdvsilDspMk/qmRzpk8LOUStP6jFAbSRi40W09DhoyUn+Mj7eyKICPqeYKybOjVFLVIAQzvu1bfIa7Q==",
+      "lockPath": "node_modules/@hono/node-server",
+      "manifestMatched": true,
+      "name": "@hono/node-server",
+      "noticeArtifacts": [
+        {
+          "bytes": 1101,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_hono_node-server@2.1.5--c01f1490/LICENSE",
+          "readEntireFile": true,
+          "sha256": "6895190430d809c4c57a7582ecc2f99acbc2ea39a5dfad20262a41d5b3e91733",
+          "source": "node_modules/@hono/node-server/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@hono/node-server/-/node-server-2.1.5.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.5"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-SWsVtH/0vULSQStoZ6xxH2K09Li8fXYTMC64ZeogCdpZ3XSi1eCPOByV1OpuJxuI3OcmHhosDWYyii07tpPsLw==",
+      "lockPath": "node_modules/@modelcontextprotocol/sdk",
+      "manifestMatched": true,
+      "name": "@modelcontextprotocol/sdk",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_modelcontextprotocol_sdk@1.32.2--040bd160/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e13dbbc1d120fc2a03cecde7c91424ae2d7de11b63d58ded2f4431e261ee50d",
+          "source": "node_modules/@modelcontextprotocol/sdk/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@modelcontextprotocol/sdk/-/sdk-1.32.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.32.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-DYe1dQclUvhjjTu/5Y6+hSNS0Jg3xMPeaYYoILk/cVueIve1AG6YyMfjSmIYZ+khNoyD7bCTqh8jm8dH9+o3Ww==",
+      "lockPath": "node_modules/@mozaik-ai/core",
+      "manifestMatched": true,
+      "name": "@mozaik-ai/core",
+      "noticeArtifacts": [
+        {
+          "bytes": 1063,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_mozaik-ai_core@4.0.0-beta.8--bdd7ec05/LICENSE",
+          "readEntireFile": true,
+          "sha256": "765d4188eb0dc15763754c0d0357e1defdeba1417170309816c3390841e79a06",
+          "source": "node_modules/@mozaik-ai/core/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@mozaik-ai/core/-/core-4.0.0-beta.8.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.0.0-beta.8"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-j+gKExEuLmKwvz3OgROXtrJ2UG2x8Ch2YZUxahh+s1F2HZ+wAceUNLkvy6zKCPVRkU++ZWQrdxsUeQXmcg4uoQ==",
+      "lockPath": "node_modules/@protobufjs/aspromise",
+      "manifestMatched": true,
+      "name": "@protobufjs/aspromise",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_aspromise@1.1.2--031d8ef7/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/aspromise/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/aspromise/-/aspromise-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-AZkcAA5vnN/v4PDqKyMR5lx7hZttPDgClv83E//FMNhR2TMcLUhfRUBHCmSl0oi9zMgDDqRUJkSxO3wm85+XLg==",
+      "lockPath": "node_modules/@protobufjs/base64",
+      "manifestMatched": true,
+      "name": "@protobufjs/base64",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_base64@1.1.2--c7379aa4/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/base64/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/base64/-/base64-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-zgXFLzW3Ap33e6d0Wlj4MGIm6Ce8O89n/apUaGNB/jx+hw+ruWEp7EwGUshdLKVRCxZW12fp9r40E1mQrf/34g==",
+      "lockPath": "node_modules/@protobufjs/codegen",
+      "manifestMatched": true,
+      "name": "@protobufjs/codegen",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_codegen@2.0.5--8c802822/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/codegen/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/codegen/-/codegen-2.0.5.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.5"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-vW1GmwMZNnL+gMRaovlh9yZX74kc+TTU3FObkkurpMaRtBfLP3ldjS9KQWlwZgraRE0+dheEEoAxdzcJQ8eXZg==",
+      "lockPath": "node_modules/@protobufjs/eventemitter",
+      "manifestMatched": true,
+      "name": "@protobufjs/eventemitter",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_eventemitter@1.1.1--4aa4392a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/eventemitter/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/eventemitter/-/eventemitter-1.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.1"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-GpptLrs57adMSuHi3VNj0mAF8dwh36LMaYF6XyJ6JMWlVsc+t42tm1HSEDmOs3A8fC9yyeisgLhsTVQokOZ0zw==",
+      "lockPath": "node_modules/@protobufjs/fetch",
+      "manifestMatched": true,
+      "name": "@protobufjs/fetch",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_fetch@1.1.1--a1b1f9e4/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/fetch/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/fetch/-/fetch-1.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.1"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Ddb+kVXlXst9d+R9PfTIxh1EdNkgoRe5tOX6t01f1lYWOvJnSPDBlG241QLzcyPdoNTsblLUdujGSE4RzrTZGQ==",
+      "lockPath": "node_modules/@protobufjs/float",
+      "manifestMatched": true,
+      "name": "@protobufjs/float",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_float@1.0.2--a05b75c6/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/float/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/float/-/float-1.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.2"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-6JOcJ5Tm08dOHAbdR3GrvP+yUUfkjG5ePsHYczMFLq3ZmMkAD98cDgcT2iA1lJ9NVwFd4tH/iSSoe44YWkltEA==",
+      "lockPath": "node_modules/@protobufjs/path",
+      "manifestMatched": true,
+      "name": "@protobufjs/path",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_path@1.1.2--e6dbe03c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/path/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/path/-/path-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-0kELaGSIDBKvcgS4zkjz1PeddatrjYcmMWOlAuAPwAeccUrPHdUqo/J6LiymHHEiJT5NrF1UVwxY14f+fy4WQw==",
+      "lockPath": "node_modules/@protobufjs/pool",
+      "manifestMatched": true,
+      "name": "@protobufjs/pool",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_pool@1.1.0--f2391c4f/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/pool/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/pool/-/pool-1.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.0"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-b1UQwcEZ4yCnMCD8DAL1VlbvBJE9/IX4FTIp7BG1xYpf29SLazLSrqUkj4w7Y5y7cCVP6E5tcqqcI0xemPkHug==",
+      "lockPath": "node_modules/@protobufjs/utf8",
+      "manifestMatched": true,
+      "name": "@protobufjs/utf8",
+      "noticeArtifacts": [
+        {
+          "bytes": 1505,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_protobufjs_utf8@1.1.2--463d1ac5/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794",
+          "source": "node_modules/@protobufjs/utf8/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@protobufjs/utf8/-/utf8-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-MzQj+8Kx3XI40OmUAE6Qoh58ZMNstNNMwn2nfd3qWsfe7nDNSqJNzes4njhz6AHwrSHOffSLwXU6yb474Q4aog==",
+      "lockPath": "node_modules/@types/node",
+      "manifestMatched": true,
+      "name": "@types/node",
+      "noticeArtifacts": [
+        {
+          "bytes": 1141,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_types_node@26.6.6--abcdd38c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/node/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@types/node/-/node-26.6.6.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "26.6.6"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-wWKOClTTiizcZhXnPY4wikVAwmdYHp8q6DmC+EJUzAMsycb7HB32Kh9RN4+0gExjmPmZSAQjgURXIGATPegAvA==",
+      "lockPath": "node_modules/@types/retry",
+      "manifestMatched": true,
+      "name": "@types/retry",
+      "noticeArtifacts": [
+        {
+          "bytes": 1183,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/_types_retry@0.12.0--e2634bd5/LICENSE",
+          "readEntireFile": true,
+          "sha256": "dea9265341829002e2c23a7372393eb2ed6e26085fb623f38a4ba0af833f30a6",
+          "source": "node_modules/@types/retry/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/@types/retry/-/retry-0.12.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.12.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-5cvg6CtKwfgdmVqY1WIiXKc3Q1bkRqGLi+2W/6ao+6Y7gu/RCwRuAhGEzh5B4KlszSuTLgZYuqFqo5bImjNKng==",
+      "lockPath": "node_modules/accepts",
+      "manifestMatched": true,
+      "name": "accepts",
+      "noticeArtifacts": [
+        {
+          "bytes": 1167,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/accepts@2.0.0--818cd6a4/LICENSE",
+          "readEntireFile": true,
+          "sha256": "71f83c4c0621102a56d9853812777b85751bce7e9726f686f5b056c1f8a4b0e6",
+          "source": "node_modules/accepts/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/accepts/-/accepts-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-MnA+YT8fwfJPgBx3m60MNqakm30XOkyIoH1y6huTQvC0PwZG7ki8NacLBcrPbNoo8vEZy7Jpuk7+jMO+CUovTQ==",
+      "lockPath": "node_modules/agent-base",
+      "manifestMatched": true,
+      "name": "agent-base",
+      "noticeArtifacts": [
+        {
+          "bytes": 1101,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/agent-base@7.1.4--e28bede7/LICENSE",
+          "readEntireFile": true,
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a",
+          "source": "node_modules/agent-base/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/agent-base/-/agent-base-7.1.4.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.1.4"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Thbli+OlOj+iMPYFBVBfJ3OmCAnaSyNn4M1vz9T6Gka5Jt9ba/HIR56joy65tY6kx/FCF5VXNB819Y7/GUrBGA==",
+      "lockPath": "node_modules/ajv",
+      "manifestMatched": true,
+      "name": "ajv",
+      "noticeArtifacts": [
+        {
+          "bytes": 1090,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ajv@8.20.0--b860c3f2/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a05350a88e318e4f5f2c2a1ff1e2e88daa4dd38e6e78b71cccae422bdc762cc3",
+          "source": "node_modules/ajv/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ajv/-/ajv-8.20.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.20.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-8iUql50EUR+uUcdRQ3HDqa6EVyo3docL8g5WJ3FNcWmu62IbkGUue/pEyLBW8VGKKucTPgqeks4fIU1DA4yowQ==",
+      "lockPath": "node_modules/ajv-formats",
+      "manifestMatched": true,
+      "name": "ajv-formats",
+      "noticeArtifacts": [
+        {
+          "bytes": 1074,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ajv-formats@3.0.1--58ad49a1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "9df3bb69929a3b650ed73b3bfa1756725aaff0ac296461605753547004eafeaf",
+          "source": "node_modules/ajv-formats/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ajv-formats/-/ajv-formats-3.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==",
+      "lockPath": "node_modules/base64-js",
+      "manifestMatched": true,
+      "name": "base64-js",
+      "noticeArtifacts": [
+        {
+          "bytes": 1081,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/base64-js@1.5.1--5892852b/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5b37224c080cdcc97c871ada971c224e9926370fe74f11b539aa1cf9f3b1aca1",
+          "source": "node_modules/base64-js/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.5.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Ko0uX15oIUS7wJ3Rb30Fs6SkVbLmPBAKdlm7q9+ak9bbIeFf0MwuBsQV6z7+X768/cHsfg+WlysDWJcmthjsjQ==",
+      "lockPath": "node_modules/bignumber.js",
+      "manifestMatched": true,
+      "name": "bignumber.js",
+      "noticeArtifacts": [
+        {
+          "bytes": 1147,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/bignumber.js@9.3.1--a9094eff/LICENCE.md",
+          "readEntireFile": true,
+          "sha256": "def75ba75d6426f1c3f02addf8e175fbe6e0d8a82e541cbdffc16d2bd8fd7d6a",
+          "source": "node_modules/bignumber.js/LICENCE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/bignumber.js/-/bignumber.js-9.3.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "9.3.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Ifk1KcLrxaGt1occQagQNFNNOqRt1LFuehEnHHzB8Z6cRgIxRU1TBaiIsUiCdA+gy5PL7Y1IX31DNKkRmxtXjQ==",
+      "lockPath": "node_modules/body-parser",
+      "manifestMatched": true,
+      "name": "body-parser",
+      "noticeArtifacts": [
+        {
+          "bytes": 1172,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/body-parser@2.4.0--9bd71de9/LICENSE",
+          "readEntireFile": true,
+          "sha256": "23d466b1b134b415b66fa50c6526b4cf3e7b9258554da88d3abb371721e7ce68",
+          "source": "node_modules/body-parser/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/body-parser/-/body-parser-2.4.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.4.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mj7UPXE0jaqaOsukNZRUEfEi2AcL7C/vwmwcHV0O97eO1E1pxBZuyjlZrx5seTaNBg1U6+o35wpa35Qfcc+7ag==",
+      "lockPath": "node_modules/body-parser/node_modules/content-type",
+      "manifestMatched": true,
+      "name": "content-type",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-type@2.1.0--74b1028e/LICENSE",
+          "readEntireFile": true,
+          "sha256": "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+          "source": "node_modules/body-parser/node_modules/content-type/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-type/-/content-type-2.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.0"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-zRpUiDwd/xk6ADqPMATG8vc9VPrkck7T07OIx0gnjmJAnHnTVXNQG3vfvWNuiZIkwu9KrKdA1iJKfsfTVxE6NA==",
+      "lockPath": "node_modules/buffer-equal-constant-time",
+      "manifestMatched": true,
+      "name": "buffer-equal-constant-time",
+      "noticeArtifacts": [
+        {
+          "bytes": 1518,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/buffer-equal-constant-time@1.0.1--4c610cbc/LICENSE.txt",
+          "readEntireFile": true,
+          "sha256": "751d0e80fb5c828f8c3de198cc760e1e05377e47c8263ab6ee2f10cdc19ba658",
+          "source": "node_modules/buffer-equal-constant-time/LICENSE.txt",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/buffer-equal-constant-time/-/buffer-equal-constant-time-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==",
+      "lockPath": "node_modules/bytes",
+      "manifestMatched": true,
+      "name": "bytes",
+      "noticeArtifacts": [
+        {
+          "bytes": 1153,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/bytes@3.1.2--d60157a9/LICENSE",
+          "readEntireFile": true,
+          "sha256": "e3b44af066615de2ea48d18d852d0762f18c0b2efcea714fa48a6f729d405b85",
+          "source": "node_modules/bytes/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/bytes/-/bytes-3.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Sp1ablJ0ivDkSzjcaJdxEunN5/XvksFJ2sMBFfq6x0ryhQV/2b/KwFe21cMpmHtPOSij8K99/wSfoEuTObmuMQ==",
+      "lockPath": "node_modules/call-bind-apply-helpers",
+      "manifestMatched": true,
+      "name": "call-bind-apply-helpers",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/call-bind-apply-helpers@1.0.2--cbf8af04/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/call-bind-apply-helpers/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/call-bind-apply-helpers/-/call-bind-apply-helpers-1.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-+ys997U96po4Kx/ABpBCqhA9EuxJaQWDQg7295H4hBphv3IZg0boBKuwYpt4YXp6MZ5AmZQnU/tyMTlRpaSejg==",
+      "lockPath": "node_modules/call-bound",
+      "manifestMatched": true,
+      "name": "call-bound",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/call-bound@1.0.4--0c39f76d/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/call-bound/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/call-bound/-/call-bound-1.0.4.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.4"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-e+H0ZXHSWYrENhQzw1LPuP4oF5MzVKmDU6d3hxlvaPEYLLg62MxtQNPRx4SYSuYJSBUgnQIG4HIN2tEtNv7Dog==",
+      "lockPath": "node_modules/content-disposition",
+      "manifestMatched": true,
+      "name": "content-disposition",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-disposition@2.0.1--06357460/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd47ce7b88c7759630d1e2b9fcfa170a0f1fde522be09e13fb1581a79d090400",
+          "source": "node_modules/content-disposition/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-disposition/-/content-disposition-2.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-nTjqfcBFEipKdXCv4YDQWCfmcLZKm81ldF0pAopTvyrFGVbcR6P/VAAd5G7N+0tTr8QqiU0tFadD6FK4NtJwOA==",
+      "lockPath": "node_modules/content-type",
+      "manifestMatched": true,
+      "name": "content-type",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-type@1.0.5--2e628902/LICENSE",
+          "readEntireFile": true,
+          "sha256": "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+          "source": "node_modules/content-type/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-type/-/content-type-1.0.5.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.5"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-yki5XnKuf750l50uGTllt6kKILY4nQ1eNIQatoXEByZ5dWgnKqbnqmTrBE5B4N7lrMJKQ2ytWMiTO2o0v6Ew/w==",
+      "lockPath": "node_modules/cookie",
+      "manifestMatched": true,
+      "name": "cookie",
+      "noticeArtifacts": [
+        {
+          "bytes": 1175,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/cookie@0.7.2--58f3dc27/LICENSE",
+          "readEntireFile": true,
+          "sha256": "c02110eedc16c7114f1a9bdc026c65626ce1d9c7e27fd51a8e0feee8a48a6858",
+          "source": "node_modules/cookie/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/cookie/-/cookie-0.7.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.7.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-D76uU73ulSXrD1UXF4KE2TMxVVwhsnCgfAyTg9k8P6KGZjlXKrOLe4dJQKI3Bxi5wjesZoFXJWElNWBjPZMbhg==",
+      "lockPath": "node_modules/cookie-signature",
+      "manifestMatched": true,
+      "name": "cookie-signature",
+      "noticeArtifacts": [
+        {
+          "bytes": 1124,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/cookie-signature@1.2.2--aa6fdf16/LICENSE",
+          "readEntireFile": true,
+          "sha256": "0dd4e47333485760cf8c265db5a5e24ae8d7401064c6f2e19793ee81a5bef42f",
+          "source": "node_modules/cookie-signature/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.2.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.2.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-tJtZBBHA6vjIAaF6EnIaq6laBBP9aq/Y3ouVJjEfoHbRBcHBAHYcMh/w8LDrk2PvIMMq8gmopa5D4V8RmbrxGw==",
+      "lockPath": "node_modules/cors",
+      "manifestMatched": true,
+      "name": "cors",
+      "noticeArtifacts": [
+        {
+          "bytes": 1095,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/cors@2.8.6--05dd4c35/LICENSE",
+          "readEntireFile": true,
+          "sha256": "1aa9a12863eefb583779b2ca0e5d73c610b6e6d07529ae0472721769a6ea0a32",
+          "source": "node_modules/cors/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/cors/-/cors-2.8.6.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.8.6"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==",
+      "lockPath": "node_modules/cross-spawn",
+      "manifestMatched": true,
+      "name": "cross-spawn",
+      "noticeArtifacts": [
+        {
+          "bytes": 1105,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/cross-spawn@7.0.6--f4a37c70/LICENSE",
+          "readEntireFile": true,
+          "sha256": "aaa78451b6fecd1b9c4594c796c133c0e90cad100372ff8bc6de615e9ef9adf1",
+          "source": "node_modules/cross-spawn/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.6.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.0.6"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-0R9ikRb668HB7QDxT1vkpuUBtqc53YyAwMwGeUFKRojY/NWKvdZ+9UYtRfGmhqNbRkTSVpMbmyhXipFFv2cb/A==",
+      "lockPath": "node_modules/data-uri-to-buffer",
+      "manifestMatched": true,
+      "name": "data-uri-to-buffer",
+      "noticeArtifacts": [
+        {
+          "bytes": 2926,
+          "copiedBytesMatchSource": true,
+          "kind": "readme_license_text",
+          "path": "docs/notices/data-uri-to-buffer@4.0.1--dc1d0182/README.md",
+          "readEntireFile": true,
+          "sha256": "a7cc4332acfa1f9b6530e01aac77fefe74f2efa32579215fddaa473013f9a25c",
+          "source": "node_modules/data-uri-to-buffer/README.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/data-uri-to-buffer/-/data-uri-to-buffer-4.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-RGwwWnwQvkVfavKVt22FGLw+xYSdzARwm0ru6DhTVA3umU5hZc28V3kO4stgYryrTlLpuvgI9GiijltAjNbcqA==",
+      "lockPath": "node_modules/debug",
+      "manifestMatched": true,
+      "name": "debug",
+      "noticeArtifacts": [
+        {
+          "bytes": 1139,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/debug@4.4.3--e7b40ffc/LICENSE",
+          "readEntireFile": true,
+          "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95",
+          "source": "node_modules/debug/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/debug/-/debug-4.4.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.4.3"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==",
+      "lockPath": "node_modules/depd",
+      "manifestMatched": true,
+      "name": "depd",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/depd@2.0.0--78a340b1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd134b41da59e452fb5a1d366b660886f741c87c2bf9428e93764c419fbc40f5",
+          "source": "node_modules/depd/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/depd/-/depd-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "BSD-2-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-nI4U3TottKAcAD9LLud4Cb7b2QztQMUEfHbvhTH09bqXTxnSie8WnjPALV/WMCrJZ6UV/qHJ6L03OqO3LcdYZw==",
+      "lockPath": "node_modules/dotenv",
+      "manifestMatched": true,
+      "name": "dotenv",
+      "noticeArtifacts": [
+        {
+          "bytes": 1294,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/dotenv@17.4.2--2e950221/LICENSE",
+          "readEntireFile": true,
+          "sha256": "74b629b24865e1e83c5277ee84590b7937644d6fd959d0c7bdce758676cd2ced",
+          "source": "node_modules/dotenv/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/dotenv/-/dotenv-17.4.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "17.4.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-KIN/nDJBQRcXw0MLVhZE9iQHmG68qAVIBg9CqmUYjmQIhgij9U5MFvrqkUL5FbtyyzZuOeOt0zdeRe4UY7ct+A==",
+      "lockPath": "node_modules/dunder-proto",
+      "manifestMatched": true,
+      "name": "dunder-proto",
+      "noticeArtifacts": [
+        {
+          "bytes": 1073,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/dunder-proto@1.0.1--54633a98/LICENSE",
+          "readEntireFile": true,
+          "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1",
+          "source": "node_modules/dunder-proto/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ==",
+      "lockPath": "node_modules/ecdsa-sig-formatter",
+      "manifestMatched": true,
+      "name": "ecdsa-sig-formatter",
+      "noticeArtifacts": [
+        {
+          "bytes": 11312,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ecdsa-sig-formatter@1.0.11--e4088f88/LICENSE",
+          "readEntireFile": true,
+          "sha256": "50a6b24f8defc31a078aa9799a91d776f83948071574854f12473362aee74d0d",
+          "source": "node_modules/ecdsa-sig-formatter/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ecdsa-sig-formatter/-/ecdsa-sig-formatter-1.0.11.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.11"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==",
+      "lockPath": "node_modules/ee-first",
+      "manifestMatched": true,
+      "name": "ee-first",
+      "noticeArtifacts": [
+        {
+          "bytes": 1099,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ee-first@1.1.1--d9438890/LICENSE",
+          "readEntireFile": true,
+          "sha256": "965ef284f7f4c176842ec2e87fa13e79feed777d56d7a21a5a3b38f1bb6dc288",
+          "source": "node_modules/ee-first/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Ev/hIyePLZtpL98x562lvPtenrUfGr0lfaf44HFZ+hDEwso7ccV9QAZrEVLg0hxNAzygaAFxy2dYaAKKM0G06A==",
+      "lockPath": "node_modules/encodeurl",
+      "manifestMatched": true,
+      "name": "encodeurl",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/encodeurl@2.0.1--f855af3d/LICENSE",
+          "readEntireFile": true,
+          "sha256": "7585ea7bba616ccbbe43cb54ecb67956688c3c5641bb84f3099a652a73193afe",
+          "source": "node_modules/encodeurl/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/encodeurl/-/encodeurl-2.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-e3nRfgfUZ4rNGL232gUgX06QNyyez04KdjFrF+LTRoOXmrOgFKDg4BCdsjW8EnT69eqdYGmRpJwiPVYNrCaW3g==",
+      "lockPath": "node_modules/es-define-property",
+      "manifestMatched": true,
+      "name": "es-define-property",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/es-define-property@1.0.1--c81157ba/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/es-define-property/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/es-define-property/-/es-define-property-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Zf5H2Kxt2xjTvbJvP2ZWLEICxA6j+hAmMzIlypy4xcBg1vKVnx89Wy0GbS+kf5cwCVFFzdCFh2XSCFNULS6csw==",
+      "lockPath": "node_modules/es-errors",
+      "manifestMatched": true,
+      "name": "es-errors",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/es-errors@1.3.0--ce536cac/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/es-errors/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.3.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-HWcBoN6NileqtSydK2FqHbS/LoDd2pqrnQHLyJzBj4kOp/ky2MWMN694xOfkK8/SnUsW2DH7EfyVlydKCsm1Zw==",
+      "lockPath": "node_modules/es-object-atoms",
+      "manifestMatched": true,
+      "name": "es-object-atoms",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/es-object-atoms@1.1.2--c33c5ba1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/es-object-atoms/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-NiSupZ4OeuGwr68lGIeym/ksIZMJodUGOSCZ/FSnTxcrekbvqrgdUxlJOMpijaKZVjAJrWrGs/6Jy8OMuyj9ow==",
+      "lockPath": "node_modules/escape-html",
+      "manifestMatched": true,
+      "name": "escape-html",
+      "noticeArtifacts": [
+        {
+          "bytes": 1157,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/escape-html@1.0.3--27272b4b/LICENSE",
+          "readEntireFile": true,
+          "sha256": "255aa557a1f55224ce522f311629c0bf20854740a67955cefd798fbd1d3d1ded",
+          "source": "node_modules/escape-html/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.3"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==",
+      "lockPath": "node_modules/etag",
+      "manifestMatched": true,
+      "name": "etag",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/etag@1.8.1--70a173be/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a7996721249a136fbcfc1c201bcb5f414f38a701d4a24f28abe65e16cfcce813",
+          "source": "node_modules/etag/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/etag/-/etag-1.8.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.8.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-CRT1WTyuQoD771GW56XEZFQ/ZoSfWid1alKGDYMmkt2yl8UXrVR4pspqWNEcqKvVIzg6PAltWjxcSSPrboA4iA==",
+      "lockPath": "node_modules/eventsource",
+      "manifestMatched": true,
+      "name": "eventsource",
+      "noticeArtifacts": [
+        {
+          "bytes": 1087,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/eventsource@3.0.7--9f604dad/LICENSE",
+          "readEntireFile": true,
+          "sha256": "f683a72ffe6a9675b5507af22fe0f448d8c8de3da1e14f139d370a7e6a54a23e",
+          "source": "node_modules/eventsource/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/eventsource/-/eventsource-3.0.7.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.7"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-EKN1vKAMcZ8MlYMpaNuxN6R9yakzH6uajHcHVTqWJzvu5pWw9DyhbP35HH8MVBQ+dZjAfDxk+A8NiR9KWaXiyQ==",
+      "lockPath": "node_modules/eventsource-parser",
+      "manifestMatched": true,
+      "name": "eventsource-parser",
+      "noticeArtifacts": [
+        {
+          "bytes": 1098,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/eventsource-parser@3.1.1--88cb4798/LICENSE",
+          "readEntireFile": true,
+          "sha256": "835eb611a23301b27115ca1be9f754c876e643ceb7fe63049c6b50609a1cafeb",
+          "source": "node_modules/eventsource-parser/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/eventsource-parser/-/eventsource-parser-3.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-qCqy1xSoaugxOD4IVHb1ZWdkvCF2W3aE2okKouWj8VwJ+ztskSiXoBnCSJqfKT+cVPJhuJqe9YLbY425+Zh00g==",
+      "lockPath": "node_modules/express",
+      "manifestMatched": true,
+      "name": "express",
+      "noticeArtifacts": [
+        {
+          "bytes": 1249,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/express@5.3.0--dac4790a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "95a5762890e5c1c9808921cef095661fc482c5e1f0bba31446ac85595df6237c",
+          "source": "node_modules/express/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/express/-/express-5.3.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "5.3.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-U1ScocxDD9WI09LaBVypvNkOtNR5yWAmZLkuKJdAzIchA4YKFYF6GT5IKER7epG58oXtjvGlV0/6ii0F83EyZg==",
+      "lockPath": "node_modules/express-rate-limit",
+      "manifestMatched": true,
+      "name": "express-rate-limit",
+      "noticeArtifacts": [
+        {
+          "bytes": 1077,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/express-rate-limit@8.7.2--2bf1babe/license",
+          "readEntireFile": true,
+          "sha256": "a752c164b45840ef677e68c738aefabfd665ee9f112ada4538761301a97118b0",
+          "source": "node_modules/express-rate-limit/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/express-rate-limit/-/express-rate-limit-8.7.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.7.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mj7UPXE0jaqaOsukNZRUEfEi2AcL7C/vwmwcHV0O97eO1E1pxBZuyjlZrx5seTaNBg1U6+o35wpa35Qfcc+7ag==",
+      "lockPath": "node_modules/express/node_modules/content-type",
+      "manifestMatched": true,
+      "name": "content-type",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-type@2.1.0--3ea0cb37/LICENSE",
+          "readEntireFile": true,
+          "sha256": "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+          "source": "node_modules/express/node_modules/content-type/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-type/-/content-type-2.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g==",
+      "lockPath": "node_modules/extend",
+      "manifestMatched": true,
+      "name": "extend",
+      "noticeArtifacts": [
+        {
+          "bytes": 1081,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/extend@3.0.2--83f70847/LICENSE",
+          "readEntireFile": true,
+          "sha256": "97af7428f93afbab9bf79cd09254da1357161794f4255eb1b4599f04dd2d2e7c",
+          "source": "node_modules/extend/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/extend/-/extend-3.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==",
+      "lockPath": "node_modules/fast-deep-equal",
+      "manifestMatched": true,
+      "name": "fast-deep-equal",
+      "noticeArtifacts": [
+        {
+          "bytes": 1074,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/fast-deep-equal@3.1.3--1dc28023/LICENSE",
+          "readEntireFile": true,
+          "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
+          "source": "node_modules/fast-deep-equal/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.3"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-hS/0Wt3Ya043oKXs0sIxrMpKQITXhMLIrVAKKXi4gozGC9v7YRWVnXIZzjNPTO02M9BdxLCWqK1yRXgNziVyJQ==",
+      "lockPath": "node_modules/fast-uri",
+      "manifestMatched": true,
+      "name": "fast-uri",
+      "noticeArtifacts": [
+        {
+          "bytes": 1813,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/fast-uri@3.1.9--5852b277/LICENSE",
+          "readEntireFile": true,
+          "sha256": "b010b0dfdfdb23d7396e03b82cd4621fc9bb8f95d6b0aea70b9c24e12074c786",
+          "source": "node_modules/fast-uri/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/fast-uri/-/fast-uri-3.1.9.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.9"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-7yAQpD2UMJzLi1Dqv7qFYnPbaPx7ZfFK6PiIxQ4PfkGPyNyl2Ugx+a/umUonmKqjhM4DnfbMvdX6otXq83soQQ==",
+      "lockPath": "node_modules/fetch-blob",
+      "manifestMatched": true,
+      "name": "fetch-blob",
+      "noticeArtifacts": [
+        {
+          "bytes": 1068,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/fetch-blob@3.2.0--a340ba31/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a5edccac92c3aa845694dcfaa72a0c098c1ae40d5ca6a37e4e59d778cf8e29bd",
+          "source": "node_modules/fetch-blob/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/fetch-blob/-/fetch-blob-3.2.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.2.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-S8KoZgRZN+a5rNwqTxlZZePjT/4cnm0ROV70LedRHZ0p8u9fRID0hJUZQpkKLzro8LfmC8sx23bY6tVNxv8pQA==",
+      "lockPath": "node_modules/finalhandler",
+      "manifestMatched": true,
+      "name": "finalhandler",
+      "noticeArtifacts": [
+        {
+          "bytes": 1119,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/finalhandler@2.1.1--7498f428/LICENSE",
+          "readEntireFile": true,
+          "sha256": "47dcccf62bf40469d23849b0b1dc8df9fc91bce219b880c638d4dc4596e6b5cf",
+          "source": "node_modules/finalhandler/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/finalhandler/-/finalhandler-2.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-buewHzMvYL29jdeQTVILecSaZKnt/RJWjoZCF5OW60Z67/GmSLBkOFM7qh1PI3zFNtJbaZL5eQu1vLfazOwj4g==",
+      "lockPath": "node_modules/formdata-polyfill",
+      "manifestMatched": true,
+      "name": "formdata-polyfill",
+      "noticeArtifacts": [
+        {
+          "bytes": 1083,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/formdata-polyfill@4.0.10--9f5f58c8/LICENSE",
+          "readEntireFile": true,
+          "sha256": "435a6437e47e5e479942255680e7fbe5f333d55234ada1c35f6115ca641d5bb4",
+          "source": "node_modules/formdata-polyfill/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.0.10"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==",
+      "lockPath": "node_modules/forwarded",
+      "manifestMatched": true,
+      "name": "forwarded",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/forwarded@0.2.0--811e8b13/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd47ce7b88c7759630d1e2b9fcfa170a0f1fde522be09e13fb1581a79d090400",
+          "source": "node_modules/forwarded/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/forwarded/-/forwarded-0.2.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.2.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Rx/WycZ60HOaqLKAi6cHRKKI7zxWbJ31MhntmtwMoaTeF7XFH9hhBp8vITaMidfljRQ6eYWCKkaTK+ykVJHP2A==",
+      "lockPath": "node_modules/fresh",
+      "manifestMatched": true,
+      "name": "fresh",
+      "noticeArtifacts": [
+        {
+          "bytes": 1174,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/fresh@2.0.0--fe46e395/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a0ec0dab16b3666f24950f86d257930ac2ad475557b4bfe245620e0817d8a45d",
+          "source": "node_modules/fresh/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/fresh/-/fresh-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==",
+      "lockPath": "node_modules/function-bind",
+      "manifestMatched": true,
+      "name": "function-bind",
+      "noticeArtifacts": [
+        {
+          "bytes": 1052,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/function-bind@1.1.2--f8694b46/LICENSE",
+          "readEntireFile": true,
+          "sha256": "773e131a7684726005a7e4688a80b4620033bc08499bc1404dd1a1eb3bca725e",
+          "source": "node_modules/function-bind/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-kB3rzJV7d9juLZh8/56QTXCwQfxyhdOMdyYk1HdQKFtF8TJTDTZQJtixWIwXdE9Jji91mC41DUNpjleo4L4eAQ==",
+      "lockPath": "node_modules/gaxios",
+      "manifestMatched": true,
+      "name": "gaxios",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/gaxios@7.3.1--35f6fec7/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/gaxios/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/gaxios/-/gaxios-7.3.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.3.1"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-zV/5HKTfCeKWnxG0Dmrw51hEWFGfcF2xiXqcA3+J90WDuP0SvoiSO5ORvcBsifmx/FoIjgQN3oNOGaQ5PhLFkg==",
+      "lockPath": "node_modules/gcp-metadata",
+      "manifestMatched": true,
+      "name": "gcp-metadata",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/gcp-metadata@8.1.2--e05f027c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/gcp-metadata/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/gcp-metadata/-/gcp-metadata-8.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-9fSjSaos/fRIVIp+xSJlE6lfwhES7LNtKaCBIamHsjr2na1BiABJPo0mOjjz8GJDURarmCPGqaiVg5mfjb98CQ==",
+      "lockPath": "node_modules/get-intrinsic",
+      "manifestMatched": true,
+      "name": "get-intrinsic",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/get-intrinsic@1.3.0--ba0227ed/LICENSE",
+          "readEntireFile": true,
+          "sha256": "39c5ec504cf6bd5cd782a7c695828e09189df79f5d94840e4f08feb97b9fd416",
+          "source": "node_modules/get-intrinsic/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.3.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.3.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-sTSfBjoXBp89JvIKIefqw7U2CCebsc74kiY6awiGogKtoSGbgjYE/G/+l9sF3MWFPNc9IcoOC4ODfKHfxFmp0g==",
+      "lockPath": "node_modules/get-proto",
+      "manifestMatched": true,
+      "name": "get-proto",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/get-proto@1.0.1--4a0fc3d8/LICENSE",
+          "readEntireFile": true,
+          "sha256": "be46ce1e3b0479af9ce82d22b465a6d7d2ff084fca0aaf3d54172da2b5eb5781",
+          "source": "node_modules/get-proto/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/get-proto/-/get-proto-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-i1ydyHrqcIxXkWh/uBmVkzCvIuq5yiK2ATndIe5XxKholrG/MTYP9xGYka4sQhrbIAgGjL2B6NOE7rFaiF3fXw==",
+      "lockPath": "node_modules/google-auth-library",
+      "manifestMatched": true,
+      "name": "google-auth-library",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/google-auth-library@10.9.1--1075f251/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/google-auth-library/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/google-auth-library/-/google-auth-library-10.9.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "10.9.1"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-eAmLkjDjAFCVXg7A1unxHsLf961m6y17QFqXqAXGj/gVkKFrEICfStRfwUlGNfeCEjNRa32JEWOUTlYXPyyKvA==",
+      "lockPath": "node_modules/google-logging-utils",
+      "manifestMatched": true,
+      "name": "google-logging-utils",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/google-logging-utils@1.1.3--072d459a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/google-logging-utils/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/google-logging-utils/-/google-logging-utils-1.1.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.3"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==",
+      "lockPath": "node_modules/gopd",
+      "manifestMatched": true,
+      "name": "gopd",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/gopd@1.2.0--9d45d6c7/LICENSE",
+          "readEntireFile": true,
+          "sha256": "d90bf0a089da4cf43d644ed240a0b3825dcdb705e64e38371d56995a4cc9e4c5",
+          "source": "node_modules/gopd/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.2.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-1cDNdwJ2Jaohmb3sg4OmKaMBwuC48sYni5HUw2DvsC8LjGTLK9h+eb1X6RyuOHe4hT0ULCW68iomhjUoKUqlPQ==",
+      "lockPath": "node_modules/has-symbols",
+      "manifestMatched": true,
+      "name": "has-symbols",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/has-symbols@1.1.0--0d5368b0/LICENSE",
+          "readEntireFile": true,
+          "sha256": "206c1adcf206dc0031b11232f5b054ec5f1662407ab1ca415247921cab2068ab",
+          "source": "node_modules/has-symbols/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/has-symbols/-/has-symbols-1.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-T2UbfbBEF32wiepXIsMlTW9+dDYC6wMh/t/vYA4tuOMKqWz/n3vr1NFSxQiyP+zk2mXsoMA/i/7qV6LKut1t1A==",
+      "lockPath": "node_modules/hasown",
+      "manifestMatched": true,
+      "name": "hasown",
+      "noticeArtifacts": [
+        {
+          "bytes": 1083,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/hasown@2.0.4--b4b7d523/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bf9b0d665be2a689851eea667ca9f42066ea1d903b38349c51e6a44b2577680a",
+          "source": "node_modules/hasown/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.4"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-yhRLQ21U6qa9Hsu2N7Qcbh8tE+WKEcoErjIo56LeSGiGXGp9sA7UpE86Ui9uexb61KakiGwuHMn2QdV7w6i6kQ==",
+      "lockPath": "node_modules/hono",
+      "manifestMatched": true,
+      "name": "hono",
+      "noticeArtifacts": [
+        {
+          "bytes": 1101,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/hono@4.13.14--d4342bce/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a6ab98e5c77b9070c443eaff2ff81034a6f8cc05a7524d5098eb0f24defa0115",
+          "source": "node_modules/hono/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/hono/-/hono-4.13.14.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.13.14"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-4FbRdAX+bSdmo4AUFuS0WNiPz8NgFt+r8ThgNWmlrjQjt1Q7ZR9+zTlce2859x4KSXrwIsaeTqDoKQmtP8pLmQ==",
+      "lockPath": "node_modules/http-errors",
+      "manifestMatched": true,
+      "name": "http-errors",
+      "noticeArtifacts": [
+        {
+          "bytes": 1168,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/http-errors@2.0.1--6e70850c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "dcb94ff9b1e037a847bc20589dc81a1066d041fd4c16deb18b0fa968c66cf395",
+          "source": "node_modules/http-errors/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/http-errors/-/http-errors-2.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-vK9P5/iUfdl95AI+JVyUuIcVtd4ofvtrOr3HNtM2yxC9bnMbEdp3x01OhQNnjb8IJYi38VlTE3mBXwcfvywuSw==",
+      "lockPath": "node_modules/https-proxy-agent",
+      "manifestMatched": true,
+      "name": "https-proxy-agent",
+      "noticeArtifacts": [
+        {
+          "bytes": 1101,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/https-proxy-agent@7.0.6--1e203a36/LICENSE",
+          "readEntireFile": true,
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a",
+          "source": "node_modules/https-proxy-agent/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/https-proxy-agent/-/https-proxy-agent-7.0.6.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.0.6"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-IKXpvIzjnC9XTAUbVBcMfGS0EPaIXtW6v+zr+RRp+hqULEpo0owZax6wyRwPOJbWbzjYspQwusTsfVr0ifh4uQ==",
+      "lockPath": "node_modules/iconv-lite",
+      "manifestMatched": true,
+      "name": "iconv-lite",
+      "noticeArtifacts": [
+        {
+          "bytes": 1064,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/iconv-lite@0.7.3--b5c92220/LICENSE",
+          "readEntireFile": true,
+          "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d",
+          "source": "node_modules/iconv-lite/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.7.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.7.3"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==",
+      "lockPath": "node_modules/inherits",
+      "manifestMatched": true,
+      "name": "inherits",
+      "noticeArtifacts": [
+        {
+          "bytes": 749,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/inherits@2.0.4--c76937ee/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5ffe28e7ade7d8f10d85d5337a73fd793dac5c462fb9a28fbf8c5046c7fbca3b",
+          "source": "node_modules/inherits/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.4"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-t2v0rkILYv9WXmSL7TpAaU3HXgaFYOPUcH3QHgwQ++gpJuH3bqyMy4Fvt/DJCTKwzH3Cf+bAp5W/mFL39KPLzA==",
+      "lockPath": "node_modules/ip-address",
+      "manifestMatched": true,
+      "name": "ip-address",
+      "noticeArtifacts": [
+        {
+          "bytes": 1061,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ip-address@10.7.5--072f02a1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "f8d791359a50cbcac82c29cb7b0b1b889b28be76fdd35b8ee33f0f7c8704702a",
+          "source": "node_modules/ip-address/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ip-address/-/ip-address-10.7.5.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "10.7.5"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g==",
+      "lockPath": "node_modules/ipaddr.js",
+      "manifestMatched": true,
+      "name": "ipaddr.js",
+      "noticeArtifacts": [
+        {
+          "bytes": 1087,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ipaddr.js@1.9.1--8443c23c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "62568a2d1337b77171ecca9db10579163446de1ba6151678e81f06cdc199971b",
+          "source": "node_modules/ipaddr.js/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.9.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.9.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-hvpoI6korhJMnej285dSg6nu1+e6uxs7zG3BYAm5byqDsgJNWwxzM6z6iZiAgQR4TJ30JmBTOwqZUw3WlyH3AQ==",
+      "lockPath": "node_modules/is-promise",
+      "manifestMatched": true,
+      "name": "is-promise",
+      "noticeArtifacts": [
+        {
+          "bytes": 1058,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/is-promise@4.0.0--f51471cf/LICENSE",
+          "readEntireFile": true,
+          "sha256": "44191656d296391e0ec97e32f5385f0d02b6f2992694082d22ea04ba0f66f9e4",
+          "source": "node_modules/is-promise/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/is-promise/-/is-promise-4.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.0.0"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==",
+      "lockPath": "node_modules/isexe",
+      "manifestMatched": true,
+      "name": "isexe",
+      "noticeArtifacts": [
+        {
+          "bytes": 765,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/isexe@2.0.0--dd723b93/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/isexe/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-3JasLuki1NRLQvY4wCoC37KZk4qxoBx2k2aFqLxT84IezqW0bkJKnNtxnZj/Fu1xsQivoc/lytxaRHJoGLjJ1A==",
+      "lockPath": "node_modules/jose",
+      "manifestMatched": true,
+      "name": "jose",
+      "noticeArtifacts": [
+        {
+          "bytes": 1079,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/jose@6.2.14--c5c39cc9/LICENSE.md",
+          "readEntireFile": true,
+          "sha256": "8078b0829d6c3e9ecde2f003e1966e4cad3efc6e7a640efbab0313cc166b1af1",
+          "source": "node_modules/jose/LICENSE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/jose/-/jose-6.2.14.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "6.2.14"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-SiPv/8VpZuWbvLSMtTDU8hEfrZWg/mH/nV/b4o0CYbSxu1UIQPLdwKOCIyLQX+VIPO5vrLX3i8qtqFyhdPSUSQ==",
+      "lockPath": "node_modules/json-bigint",
+      "manifestMatched": true,
+      "name": "json-bigint",
+      "noticeArtifacts": [
+        {
+          "bytes": 1081,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/json-bigint@1.0.0--5e4436d9/LICENSE",
+          "readEntireFile": true,
+          "sha256": "def82c085d05e795fe6a9cb5b70c48e022212355afc0e91d4de047cade28df06",
+          "source": "node_modules/json-bigint/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/json-bigint/-/json-bigint-1.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-+DWg8jCJG2TEnpy7kOm/7/AxaYoaRbjVB4LFZLySZlWn8exGs3A4OLJR966cVvU26N7X9TWxl+Jsw7dzAqKT6g==",
+      "lockPath": "node_modules/json-schema-to-ts",
+      "manifestMatched": true,
+      "name": "json-schema-to-ts",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/json-schema-to-ts@3.1.1--a08a1f04/LICENSE",
+          "readEntireFile": true,
+          "sha256": "18a2bfd070b08bd1cc538c90f59989a9523e070e72fe9a9068593c3e82f44fa7",
+          "source": "node_modules/json-schema-to-ts/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/json-schema-to-ts/-/json-schema-to-ts-3.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-NM8/P9n3XjXhIZn1lLhkFaACTOURQXjWhV4BA/RnOv8xvgqtqpAX9IO4mRQxSx1Rlo4tqzeqb0sOlruaOy3dug==",
+      "lockPath": "node_modules/json-schema-traverse",
+      "manifestMatched": true,
+      "name": "json-schema-traverse",
+      "noticeArtifacts": [
+        {
+          "bytes": 1074,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/json-schema-traverse@1.0.0--bf0c880f/LICENSE",
+          "readEntireFile": true,
+          "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
+          "source": "node_modules/json-schema-traverse/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.0"
+    },
+    {
+      "declaredLicense": "BSD-2-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-fQhoXdcvc3V28x7C7BMs4P5+kNlgUURe2jmUT1T//oBRMDrqy1QPelJimwZGo7Hg9VPV3EQV5Bnq4hbFy2vetA==",
+      "lockPath": "node_modules/json-schema-typed",
+      "manifestMatched": true,
+      "name": "json-schema-typed",
+      "noticeArtifacts": [
+        {
+          "bytes": 2859,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/json-schema-typed@8.0.2--69c23049/LICENSE.md",
+          "readEntireFile": true,
+          "sha256": "bbe87b573c12bda5baf18742117330efa177e0886b3b0a278dacf8f236e1e129",
+          "source": "node_modules/json-schema-typed/LICENSE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/json-schema-typed/-/json-schema-typed-8.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-hRF04fqJIP8Abbkq5NKGN0Bbr3JxlQ+qhZufXVr0DvujKy93ZCbXZMHDL4EOtodSbCWxOqR8MS1tXA5hwqCXDg==",
+      "lockPath": "node_modules/jwa",
+      "manifestMatched": true,
+      "name": "jwa",
+      "noticeArtifacts": [
+        {
+          "bytes": 1068,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/jwa@2.0.1--f8895628/LICENSE",
+          "readEntireFile": true,
+          "sha256": "3320319f8a5f42bc4254e65471eca7a5ea4dc8c883c4c24b4868e36b14890bcf",
+          "source": "node_modules/jwa/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/jwa/-/jwa-2.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-EKI/M/yqPncGUUh44xz0PxSidXFr/+r0pA70+gIYhjv+et7yxM+s29Y+VGDkovRofQem0fs7Uvf4+YmAdyRduA==",
+      "lockPath": "node_modules/jws",
+      "manifestMatched": true,
+      "name": "jws",
+      "noticeArtifacts": [
+        {
+          "bytes": 1068,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/jws@4.0.1--c21544af/LICENSE",
+          "readEntireFile": true,
+          "sha256": "3320319f8a5f42bc4254e65471eca7a5ea4dc8c883c4c24b4868e36b14890bcf",
+          "source": "node_modules/jws/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/jws/-/jws-4.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.0.1"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mNAgZ1GmyNhD7AuqnTG3/VQ26o760+ZYBPKjPvugO8+nLbYfX6TVpJPseBvopbdY+qpZ/lKUnmEc1LeZYS3QAA==",
+      "lockPath": "node_modules/long",
+      "manifestMatched": true,
+      "name": "long",
+      "noticeArtifacts": [
+        {
+          "bytes": 11358,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/long@5.3.2--cef77ca9/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "source": "node_modules/long/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/long/-/long-5.3.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "5.3.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-/IXtbwEk5HTPyEwyKX6hGkYXxM9nbj64B+ilVJnC/R6B0pH5G4V3b0pVbL7DBj4tkhBAppbQUlf6F6Xl9LHu1g==",
+      "lockPath": "node_modules/math-intrinsics",
+      "manifestMatched": true,
+      "name": "math-intrinsics",
+      "noticeArtifacts": [
+        {
+          "bytes": 1073,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/math-intrinsics@1.1.0--2e6b80fb/LICENSE",
+          "readEntireFile": true,
+          "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1",
+          "source": "node_modules/math-intrinsics/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-yz3xRaG20c6/BOzvYoDaGtPmGscs7YivItZEEqe6GbwNfHuxu9YNmvnEkMzKldAGY4/80pRcQRZSEnhquk9XuQ==",
+      "lockPath": "node_modules/media-typer",
+      "manifestMatched": true,
+      "name": "media-typer",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/media-typer@1.1.1--c79520d2/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd47ce7b88c7759630d1e2b9fcfa170a0f1fde522be09e13fb1581a79d090400",
+          "source": "node_modules/media-typer/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/media-typer/-/media-typer-1.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Snk314V5ayFLhp3fkUREub6WtjBfPdCPY1Ln8/8munuLuiYhsABgBVWsozAG+MWMbVEvcdcpbi9R7ww22l9Q3g==",
+      "lockPath": "node_modules/merge-descriptors",
+      "manifestMatched": true,
+      "name": "merge-descriptors",
+      "noticeArtifacts": [
+        {
+          "bytes": 1231,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/merge-descriptors@2.0.0--8d8ef495/license",
+          "readEntireFile": true,
+          "sha256": "70b126abc64d7ea06e1243349073935caa16fa47a41a571773ccf0b350b1d574",
+          "source": "node_modules/merge-descriptors/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-aU5EJuIN2WDemCcAp2vFBfp/m4EAhWJnUNSSw0ixs7/kXbd6Pg64EmwJkNdFhB8aWt1sH2CTXrLxo/iAGV3oPQ==",
+      "lockPath": "node_modules/mime-db",
+      "manifestMatched": true,
+      "name": "mime-db",
+      "noticeArtifacts": [
+        {
+          "bytes": 1172,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/mime-db@1.54.0--086e8d7d/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cc1dfd4dafa27271e8212cd3b274eeb3f262e40a6fdab36ddc3f9696f706f58b",
+          "source": "node_modules/mime-db/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.54.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.54.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Lbgzdk0h4juoQ9fCKXW4by0UJqj+nOOrI9MJ1sSj4nI8aI2eo1qmvQEie4VD1glsS250n15LsWsYtCugiStS5A==",
+      "lockPath": "node_modules/mime-types",
+      "manifestMatched": true,
+      "name": "mime-types",
+      "noticeArtifacts": [
+        {
+          "bytes": 1167,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/mime-types@3.0.2--8469a1f1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "71f83c4c0621102a56d9853812777b85751bce7e9726f686f5b056c1f8a4b0e6",
+          "source": "node_modules/mime-types/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-3.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==",
+      "lockPath": "node_modules/ms",
+      "manifestMatched": true,
+      "name": "ms",
+      "noticeArtifacts": [
+        {
+          "bytes": 1079,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ms@2.1.3--e411571e/license.md",
+          "readEntireFile": true,
+          "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801",
+          "source": "node_modules/ms/license.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.3"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-NMPBRMJgiQHjbd8phG3Vebdx4kZ1H121rbl5IkMqeOsahptB9BKo/d7oJ3zTXqTgagn2bWlNSXkh0QUGM31RYg==",
+      "lockPath": "node_modules/negotiator",
+      "manifestMatched": true,
+      "name": "negotiator",
+      "noticeArtifacts": [
+        {
+          "bytes": 1177,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/negotiator@1.1.0--915dcd78/LICENSE",
+          "readEntireFile": true,
+          "sha256": "553d4d20029a24e315b428a1a54a9e109eaa340f2e958a4f50a92362c2c4070b",
+          "source": "node_modules/negotiator/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/negotiator/-/negotiator-1.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mj7UPXE0jaqaOsukNZRUEfEi2AcL7C/vwmwcHV0O97eO1E1pxBZuyjlZrx5seTaNBg1U6+o35wpa35Qfcc+7ag==",
+      "lockPath": "node_modules/negotiator/node_modules/content-type",
+      "manifestMatched": true,
+      "name": "content-type",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-type@2.1.0--02dfde70/LICENSE",
+          "readEntireFile": true,
+          "sha256": "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+          "source": "node_modules/negotiator/node_modules/content-type/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-type/-/content-type-2.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==",
+      "lockPath": "node_modules/node-domexception",
+      "manifestMatched": true,
+      "name": "node-domexception",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/node-domexception@1.0.0--152b9eaf/LICENSE",
+          "readEntireFile": true,
+          "sha256": "8ec1386f7f078b0c7cd25341cd80f332df902371cda9f40c10ec2b4007b420b7",
+          "source": "node_modules/node-domexception/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/node-domexception/-/node-domexception-1.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-dRB78srN/l6gqWulah9SrxeYnxeddIG30+GOqK/9OlLVyLg3HPnr6SqOWTWOXKRwC2eGYCkZ59NNuSgvSrpgOA==",
+      "lockPath": "node_modules/node-fetch",
+      "manifestMatched": true,
+      "name": "node-fetch",
+      "noticeArtifacts": [
+        {
+          "bytes": 1090,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/node-fetch@3.3.2--abf9db53/LICENSE.md",
+          "readEntireFile": true,
+          "sha256": "3e2c11dcf3f17ab585baab8faba54772d7872f1c6e026022acd4b4006665efb0",
+          "source": "node_modules/node-fetch/LICENSE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/node-fetch/-/node-fetch-3.3.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.3.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==",
+      "lockPath": "node_modules/object-assign",
+      "manifestMatched": true,
+      "name": "object-assign",
+      "noticeArtifacts": [
+        {
+          "bytes": 1119,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/object-assign@4.1.1--c145d125/license",
+          "readEntireFile": true,
+          "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+          "source": "node_modules/object-assign/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-W67iLl4J2EXEGTbfeHCffrjDfitvLANg0UlX3wFUUSTx92KXRFegMHUVgSqE+wvhAbi4WqjGg9czysTV2Epbew==",
+      "lockPath": "node_modules/object-inspect",
+      "manifestMatched": true,
+      "name": "object-inspect",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/object-inspect@1.13.4--6838057a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd40cc437e28a3ad7bef2ad34e6b72e757b182e67bda1acadbab4ef0476f8232",
+          "source": "node_modules/object-inspect/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/object-inspect/-/object-inspect-1.13.4.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.13.4"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-ATWUv387i+nLD49EiDoOft5scf32Vsdz3ktrQJG9bi7jRFmaXTssvyvj1EmeKVVgvesbqUtvQQvaS2TpTukAZQ==",
+      "lockPath": "node_modules/on-finished",
+      "manifestMatched": true,
+      "name": "on-finished",
+      "noticeArtifacts": [
+        {
+          "bytes": 1167,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/on-finished@2.4.2--1ef75324/LICENSE",
+          "readEntireFile": true,
+          "sha256": "8089bcc08845ec143e5761f4a101a65b8c792a0dedbfeeb90a15560c0b77f768",
+          "source": "node_modules/on-finished/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/on-finished/-/on-finished-2.4.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.4.2"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w==",
+      "lockPath": "node_modules/once",
+      "manifestMatched": true,
+      "name": "once",
+      "noticeArtifacts": [
+        {
+          "bytes": 765,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/once@1.4.0--16a816bf/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/once/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/once/-/once-1.4.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.4.0"
+    },
+    {
+      "declaredLicense": "Apache-2.0",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-aYCc0C6L864eR6WSYIwQGyXriw/nIyZx0ObvhzOEVuk0zoBDpynjSbrionWI7q65B5H8jJX0DXR9snEzM6bfPg==",
+      "lockPath": "node_modules/openai",
+      "manifestMatched": true,
+      "name": "openai",
+      "noticeArtifacts": [
+        {
+          "bytes": 11336,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/openai@6.49.0--c70cd286/LICENSE",
+          "readEntireFile": true,
+          "sha256": "636eb7d79da9bb6d515a4b3fd417aa26679eb3cf16396ddab4bc55fa74e616e4",
+          "source": "node_modules/openai/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": true,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        },
+        {
+          "bytes": 746,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/openai@6.49.0--c70cd286/src/_vendor/zod-to-json-schema/LICENSE",
+          "readEntireFile": true,
+          "sha256": "7beaa85b57d7211f6684af6c1d97e6d9ef7ec1851f779152043a47a8700306a9",
+          "source": "node_modules/openai/src/_vendor/zod-to-json-schema/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        },
+        {
+          "bytes": 1588,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/openai@6.49.0--c70cd286/src/internal/qs/LICENSE.md",
+          "readEntireFile": true,
+          "sha256": "d8c77eaffed7f1f874b97f66ee47a557ae24fd59bae8ae14f9b1b84f26a94d2f",
+          "source": "node_modules/openai/src/internal/qs/LICENSE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/openai/-/openai-6.49.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "6.49.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-312Id396EbJdvRONlngUx0NydfrIQ5lsYu0znKVUzVvArzEIt08V1qhtyESbGVd1FGX7UKtiFp5uwKZdM8wIuQ==",
+      "lockPath": "node_modules/p-retry",
+      "manifestMatched": true,
+      "name": "p-retry",
+      "noticeArtifacts": [
+        {
+          "bytes": 1109,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/p-retry@4.6.2--b4485ee2/license",
+          "readEntireFile": true,
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+          "source": "node_modules/p-retry/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/p-retry/-/p-retry-4.6.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.6.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ==",
+      "lockPath": "node_modules/parseurl",
+      "manifestMatched": true,
+      "name": "parseurl",
+      "noticeArtifacts": [
+        {
+          "bytes": 1173,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/parseurl@1.3.3--f80b1a80/LICENSE",
+          "readEntireFile": true,
+          "sha256": "11d017c3b9f1ee3f44caf7203035f0461d5b57e0db8ce1bc03a9af34fa7d3f6b",
+          "source": "node_modules/parseurl/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/parseurl/-/parseurl-1.3.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.3.3"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==",
+      "lockPath": "node_modules/path-key",
+      "manifestMatched": true,
+      "name": "path-key",
+      "noticeArtifacts": [
+        {
+          "bytes": 1109,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/path-key@3.1.1--5fb11649/license",
+          "readEntireFile": true,
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+          "source": "node_modules/path-key/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-qRcuIdP69NPm4qbACK+aDogI5CBDMi1jKe0ry5rSQJz8JVLsC7jV8XpiJjGRLLol3N+R5ihGYcrPLTno6pAdBA==",
+      "lockPath": "node_modules/path-to-regexp",
+      "manifestMatched": true,
+      "name": "path-to-regexp",
+      "noticeArtifacts": [
+        {
+          "bytes": 1103,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/path-to-regexp@8.4.2--b738fd2a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25",
+          "source": "node_modules/path-to-regexp/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-8.4.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.4.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-wQ0b/W4Fr01qtpHlqSqspcj3EhBvimsdh0KlHhH8HRZnMsEa0ea2fTULOXOS9ccQr3om+GcGRk4e+isrZWV8qQ==",
+      "lockPath": "node_modules/pkce-challenge",
+      "manifestMatched": true,
+      "name": "pkce-challenge",
+      "noticeArtifacts": [
+        {
+          "bytes": 1057,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/pkce-challenge@5.0.1--1763fc71/LICENSE",
+          "readEntireFile": true,
+          "sha256": "feb87a2e0c305de3464cc44077da5393c52d8ca6362d37427157d04ec6f4510d",
+          "source": "node_modules/pkce-challenge/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/pkce-challenge/-/pkce-challenge-5.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "5.0.1"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-dYDWdjSl5RNb7SgPxGQcRU+GtvP7s2fpkrY0r432PcOIaZ0/rBcxEZnQN67iJhFuQiVw754JDoPruPCNdGsbjg==",
+      "lockPath": "node_modules/protobufjs",
+      "manifestMatched": true,
+      "name": "protobufjs",
+      "noticeArtifacts": [
+        {
+          "bytes": 1937,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/protobufjs@7.6.6--b27d99f3/LICENSE",
+          "readEntireFile": true,
+          "sha256": "49d6a1c9a623784c61c6cb70f773f3457faceb1914a13c8560a9823b7631950c",
+          "source": "node_modules/protobufjs/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        },
+        {
+          "bytes": 1476,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/protobufjs@7.6.6--b27d99f3/google/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4ab87e6e3c0c0b78e47c77d49ec10c048f8a519fb8062e6e3217e3e6e9b0c6e9",
+          "source": "node_modules/protobufjs/google/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/protobufjs/-/protobufjs-7.6.6.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "7.6.6"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-5nnx0yGyVUcY6t9RnWcARWtwT9F1D8O9rt08htPvnd49W1IgZtmLkhu9WfMzQj1cFxjHIO6connUNVW5k7AVyQ==",
+      "lockPath": "node_modules/proxy-addr",
+      "manifestMatched": true,
+      "name": "proxy-addr",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/proxy-addr@2.0.8--7f261d77/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a7996721249a136fbcfc1c201bcb5f414f38a701d4a24f28abe65e16cfcce813",
+          "source": "node_modules/proxy-addr/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.8.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.8"
+    },
+    {
+      "declaredLicense": "BSD-3-Clause",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-jd3COkaKVgGUW+ZHyEHCG9bH7RoaaiWuMgzsIBjUMVjLAaWGWpoUAVwljVvBHxRu/2qEHnadLGZrkutYUBPQJA==",
+      "lockPath": "node_modules/qs",
+      "manifestMatched": true,
+      "name": "qs",
+      "noticeArtifacts": [
+        {
+          "bytes": 1600,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/qs@6.17.1--0b5a5f35/LICENSE.md",
+          "readEntireFile": true,
+          "sha256": "e7dc37bf662d7f786efcb46c545615e70c1daf458a38385521c63cf6607cdfe1",
+          "source": "node_modules/qs/LICENSE.md",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": true,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/qs/-/qs-6.17.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "6.17.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-hek2mFQpPuI4E1BBKrSto+BU3e3x4xuarsbiwr3+lf7p44juvFMV0XFWQAP3xUyqXA4RrXLIoaSUGbSt056ZMw==",
+      "lockPath": "node_modules/range-parser",
+      "manifestMatched": true,
+      "name": "range-parser",
+      "noticeArtifacts": [
+        {
+          "bytes": 1178,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/range-parser@1.3.0--e3fd31cc/LICENSE",
+          "readEntireFile": true,
+          "sha256": "f655e6291356ec0de7a8f0e69f294961a2cea86678ec94588be1e6a492e278ab",
+          "source": "node_modules/range-parser/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/range-parser/-/range-parser-1.3.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.3.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-K5zQjDllxWkf7Z5xJdV0/B0WTNqx6vxG70zJE4N0kBs4LovmEYWJzQGxC9bS9RAKu3bgM40lrd5zoLJ12MQ5BA==",
+      "lockPath": "node_modules/raw-body",
+      "manifestMatched": true,
+      "name": "raw-body",
+      "noticeArtifacts": [
+        {
+          "bytes": 1181,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/raw-body@3.0.2--7a3d4724/LICENSE",
+          "readEntireFile": true,
+          "sha256": "37876d7de8bdf5e5b9b58a697ebc34044624e493e6f49eff5c938e5226dcac6b",
+          "source": "node_modules/raw-body/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/raw-body/-/raw-body-3.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw==",
+      "lockPath": "node_modules/require-from-string",
+      "manifestMatched": true,
+      "name": "require-from-string",
+      "noticeArtifacts": [
+        {
+          "bytes": 1128,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/require-from-string@2.0.2--e3af7aca/license",
+          "readEntireFile": true,
+          "sha256": "6ee0feb1f6ef996ff5a68600f8cf98909cf412d39ef3cdceaefd87d636fa1b7f",
+          "source": "node_modules/require-from-string/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-XQBQ3I8W1Cge0Seh+6gjj03LbmRFWuoszgK9ooCpwYIrhhoO80pfq4cUkU5DkknwfOfFteRwlZ56PYOGYyFWdg==",
+      "lockPath": "node_modules/retry",
+      "manifestMatched": true,
+      "name": "retry",
+      "noticeArtifacts": [
+        {
+          "bytes": 1139,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/retry@0.13.1--f724fc86/License",
+          "readEntireFile": true,
+          "sha256": "01ad164273e8e095abc9dbd1c21e194594a671af7d528cb43ee7b4c903ba7da3",
+          "source": "node_modules/retry/License",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/retry/-/retry-0.13.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "0.13.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-nLTrUKm2UyiL7rlhapu/Zl45FwNgkZGaCpZbIHajDYgwlJCOzLSk+cIPAnsEqV955GjILJnKbdQC1nVPz+gAYQ==",
+      "lockPath": "node_modules/router",
+      "manifestMatched": true,
+      "name": "router",
+      "noticeArtifacts": [
+        {
+          "bytes": 1128,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/router@2.2.0--3f591f9f/LICENSE",
+          "readEntireFile": true,
+          "sha256": "d0bca4e517157b7a6120c085f5fe43a35b90c095e3bbeb9e67f220c608506a16",
+          "source": "node_modules/router/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/router/-/router-2.2.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.2.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==",
+      "lockPath": "node_modules/safe-buffer",
+      "manifestMatched": true,
+      "name": "safe-buffer",
+      "noticeArtifacts": [
+        {
+          "bytes": 1081,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/safe-buffer@5.2.1--bce944be/LICENSE",
+          "readEntireFile": true,
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac",
+          "source": "node_modules/safe-buffer/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "5.2.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==",
+      "lockPath": "node_modules/safer-buffer",
+      "manifestMatched": true,
+      "name": "safer-buffer",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/safer-buffer@2.1.2--d9639c5e/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4bc935e71be198c67ddf3c2b5fddb195f6edc182bfc155a96a6db61b44b494b9",
+          "source": "node_modules/safer-buffer/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-1gnZf7DFcoIcajTjTwjwuDjzuz4PPcY2StKPlsGAQ1+YH20IRVrBaXSWmdjowTJ6u8Rc01PoYOGHXfP1mYcZNQ==",
+      "lockPath": "node_modules/send",
+      "manifestMatched": true,
+      "name": "send",
+      "noticeArtifacts": [
+        {
+          "bytes": 1128,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/send@1.2.1--dfaab080/LICENSE",
+          "readEntireFile": true,
+          "sha256": "25a328069fe771f8ed5b6f983ed4b0e6c84b3312ac0f69b28c3d52dc277962c9",
+          "source": "node_modules/send/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/send/-/send-1.2.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.2.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-xRXBn0pPqQTVQiC8wyQrKs2MOlX24zQ0POGaj0kultvoOCstBQM5yvOhAVSUwOMjQtTvsPWoNCHfPGwaaQJhTw==",
+      "lockPath": "node_modules/serve-static",
+      "manifestMatched": true,
+      "name": "serve-static",
+      "noticeArtifacts": [
+        {
+          "bytes": 1189,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/serve-static@2.2.1--165a11af/LICENSE",
+          "readEntireFile": true,
+          "sha256": "63b9a188d7d43e64b0558b7115255045b9fe20a5fc3ff483421cb899e7f52bcb",
+          "source": "node_modules/serve-static/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/serve-static/-/serve-static-2.2.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.2.1"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==",
+      "lockPath": "node_modules/setprototypeof",
+      "manifestMatched": true,
+      "name": "setprototypeof",
+      "noticeArtifacts": [
+        {
+          "bytes": 727,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/setprototypeof@1.2.0--64a15ed4/LICENSE",
+          "readEntireFile": true,
+          "sha256": "76d6d1ea0c268da37dd3c961b4fcfb23dee8417fff9e8786d4d44c585b781b69",
+          "source": "node_modules/setprototypeof/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.2.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.2.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA==",
+      "lockPath": "node_modules/shebang-command",
+      "manifestMatched": true,
+      "name": "shebang-command",
+      "noticeArtifacts": [
+        {
+          "bytes": 1116,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/shebang-command@2.0.0--2658f1e7/license",
+          "readEntireFile": true,
+          "sha256": "69dee148a2cc470554dfa7142e830662062394d0fe67cddd379aba90dc60d6b3",
+          "source": "node_modules/shebang-command/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==",
+      "lockPath": "node_modules/shebang-regex",
+      "manifestMatched": true,
+      "name": "shebang-regex",
+      "noticeArtifacts": [
+        {
+          "bytes": 1109,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/shebang-regex@3.0.0--06f3113b/license",
+          "readEntireFile": true,
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+          "source": "node_modules/shebang-regex/license",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-6x6dK6zJdpTzF4sQeNYxwtvBzf6Eg4GtlesS94HOvTudUeyK2WXAaIfmDgsyslYrRBeFIlsi54AYsFGUuhmvrQ==",
+      "lockPath": "node_modules/side-channel",
+      "manifestMatched": true,
+      "name": "side-channel",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/side-channel@1.1.1--bc506c0c/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc3f455254c0af0655cc3ff46a41ed644b67599f6043346169d285bf2b3cf3b",
+          "source": "node_modules/side-channel/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/side-channel/-/side-channel-1.1.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mjn/0bi/oUURjc5Xl7IaWi/OJJJumuoJFQJfDDyO46+hBWsfaVM65TBHq2eoZBhzl9EchxOijpkbRC8SVBQU0w==",
+      "lockPath": "node_modules/side-channel-list",
+      "manifestMatched": true,
+      "name": "side-channel-list",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/side-channel-list@1.0.1--c25540f0/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/side-channel-list/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/side-channel-list/-/side-channel-list-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-VCjCNfgMsby3tTdo02nbjtM/ewra6jPHmpThenkTYh8pG9ucZ/1P8So4u4FGBek/BjpOVsDCMoLA/iuBKIFXRA==",
+      "lockPath": "node_modules/side-channel-map",
+      "manifestMatched": true,
+      "name": "side-channel-map",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/side-channel-map@1.0.1--5afe8e3f/LICENSE",
+          "readEntireFile": true,
+          "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292",
+          "source": "node_modules/side-channel-map/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/side-channel-map/-/side-channel-map-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-WPS/HvHQTYnHisLo9McqBHOJk2FkHO/tlpvldyrnem4aeQp4hai3gythswg6p01oSoTl58rcpiFAjF2br2Ak2A==",
+      "lockPath": "node_modules/side-channel-weakmap",
+      "manifestMatched": true,
+      "name": "side-channel-weakmap",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/side-channel-weakmap@1.0.2--5f7ccd73/LICENSE",
+          "readEntireFile": true,
+          "sha256": "cfc3f455254c0af0655cc3ff46a41ed644b67599f6043346169d285bf2b3cf3b",
+          "source": "node_modules/side-channel-weakmap/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/side-channel-weakmap/-/side-channel-weakmap-1.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-DvEy55V3DB7uknRo+4iOGT5fP1slR8wQohVdknigZPMpMstaKJQWhwiYBACJE3Ul2pTnATihhBYnRhZQHGBiRw==",
+      "lockPath": "node_modules/statuses",
+      "manifestMatched": true,
+      "name": "statuses",
+      "noticeArtifacts": [
+        {
+          "bytes": 1172,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/statuses@2.0.2--14402378/LICENSE",
+          "readEntireFile": true,
+          "sha256": "512cfa4d5e7a7569c7ae4dd95241cb6ae2aaf648ef9ebd080c01bd24868d26e9",
+          "source": "node_modules/statuses/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/statuses/-/statuses-2.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-o5sSPKEkg/DIQNmH43V0/uerLrpzVedkUh8tGNvaeXpfpuwjKenlSox/2O/BTlZUtEe+JG7s5YhEz608PlAHRA==",
+      "lockPath": "node_modules/toidentifier",
+      "manifestMatched": true,
+      "name": "toidentifier",
+      "noticeArtifacts": [
+        {
+          "bytes": 1108,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/toidentifier@1.0.1--2456b6b9/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a832d679750e49ab433626ab196350b89964b60eb0d3edd3341887c7d5f4c128",
+          "source": "node_modules/toidentifier/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/toidentifier/-/toidentifier-1.0.1.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.1"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-FPAhNPFMrkwz76P7cdjdmiShwMynZYN6SgOujD1urY4oNm80Ou9oMdmbR45LotcKOXoy7wSmHkRFE6Mxbrhefw==",
+      "lockPath": "node_modules/ts-algebra",
+      "manifestMatched": true,
+      "name": "ts-algebra",
+      "noticeArtifacts": [
+        {
+          "bytes": 1071,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ts-algebra@2.0.0--87ca4212/LICENSE",
+          "readEntireFile": true,
+          "sha256": "18a2bfd070b08bd1cc538c90f59989a9523e070e72fe9a9068593c3e82f44fa7",
+          "source": "node_modules/ts-algebra/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ts-algebra/-/ts-algebra-2.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-faYHw0anBbc/kWF3zFTEnxSFOAGUX9GFbOBthvDdLsIlEoWOFOtS0zgCiQYwIskL9iGXZL3kAXD8OoZ4GmMATA==",
+      "lockPath": "node_modules/type-is",
+      "manifestMatched": true,
+      "name": "type-is",
+      "noticeArtifacts": [
+        {
+          "bytes": 1172,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/type-is@2.1.0--bb6eb299/LICENSE",
+          "readEntireFile": true,
+          "sha256": "23d466b1b134b415b66fa50c6526b4cf3e7b9258554da88d3abb371721e7ce68",
+          "source": "node_modules/type-is/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/type-is/-/type-is-2.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-mj7UPXE0jaqaOsukNZRUEfEi2AcL7C/vwmwcHV0O97eO1E1pxBZuyjlZrx5seTaNBg1U6+o35wpa35Qfcc+7ag==",
+      "lockPath": "node_modules/type-is/node_modules/content-type",
+      "manifestMatched": true,
+      "name": "content-type",
+      "noticeArtifacts": [
+        {
+          "bytes": 1089,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/content-type@2.1.0--f306a44a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+          "source": "node_modules/type-is/node_modules/content-type/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/content-type/-/content-type-2.1.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.1.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg==",
+      "lockPath": "node_modules/undici-types",
+      "manifestMatched": true,
+      "name": "undici-types",
+      "noticeArtifacts": [
+        {
+          "bytes": 1090,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/undici-types@8.9.0--caa71619/LICENSE",
+          "readEntireFile": true,
+          "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27",
+          "source": "node_modules/undici-types/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/undici-types/-/undici-types-8.9.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.9.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==",
+      "lockPath": "node_modules/unpipe",
+      "manifestMatched": true,
+      "name": "unpipe",
+      "noticeArtifacts": [
+        {
+          "bytes": 1114,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/unpipe@1.0.0--a8d5ed3a/LICENSE",
+          "readEntireFile": true,
+          "sha256": "1a526fbe8d8577f5a4b1c2821842b55b7c0e18862531c62ae4ce69c9b19b74b6",
+          "source": "node_modules/unpipe/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==",
+      "lockPath": "node_modules/vary",
+      "manifestMatched": true,
+      "name": "vary",
+      "noticeArtifacts": [
+        {
+          "bytes": 1094,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/vary@1.1.2--3b75c7c5/LICENSE",
+          "readEntireFile": true,
+          "sha256": "bd47ce7b88c7759630d1e2b9fcfa170a0f1fde522be09e13fb1581a79d090400",
+          "source": "node_modules/vary/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.1.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-d2JWLCivmZYTSIoge9MsgFCZrt571BikcWGYkjC1khllbTeDlGqZ2D8vD8E/lJa8WGWbb7Plm8/XJYV7IJHZZw==",
+      "lockPath": "node_modules/web-streams-polyfill",
+      "manifestMatched": true,
+      "name": "web-streams-polyfill",
+      "noticeArtifacts": [
+        {
+          "bytes": 1120,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/web-streams-polyfill@3.3.3--bfcda15f/LICENSE",
+          "readEntireFile": true,
+          "sha256": "81008a3fb78f69f3c4a72a9e005c8582342ab62864371b3ab8e1b6af9041e080",
+          "source": "node_modules/web-streams-polyfill/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/web-streams-polyfill/-/web-streams-polyfill-3.3.3.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.3.3"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==",
+      "lockPath": "node_modules/which",
+      "manifestMatched": true,
+      "name": "which",
+      "noticeArtifacts": [
+        {
+          "bytes": 765,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/which@2.0.2--8f063900/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/which/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/which/-/which-2.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "2.0.2"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==",
+      "lockPath": "node_modules/wrappy",
+      "manifestMatched": true,
+      "name": "wrappy",
+      "noticeArtifacts": [
+        {
+          "bytes": 765,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/wrappy@1.0.2--09dbeea1/LICENSE",
+          "readEntireFile": true,
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/wrappy/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "1.0.2"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-Ydggc987+RO0AnWtZ/7Wq9FtNvcrL1b/RO0ud9mWjUPgDrsAAwQSF51sm2hm1XofbU/4jkpGEsLFsZZxU+1DOg==",
+      "lockPath": "node_modules/ws",
+      "manifestMatched": true,
+      "name": "ws",
+      "noticeArtifacts": [
+        {
+          "bytes": 1183,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/ws@8.22.0--d987b46b/LICENSE",
+          "readEntireFile": true,
+          "sha256": "2b29dcfe0d6471f7e8c92c5fb38c9f93edee10330937055440192f1832b1ecef",
+          "source": "node_modules/ws/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/ws/-/ws-8.22.0.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "8.22.0"
+    },
+    {
+      "declaredLicense": "MIT",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-g8W2D2kU6a8untc053fX1uVBKzM7yqAxW/3zwk83+6RyF2+SKOuV+c0wBDhUwzV1PaGapmZH+rmcUzPf+3CGwg==",
+      "lockPath": "node_modules/zod",
+      "manifestMatched": true,
+      "name": "zod",
+      "noticeArtifacts": [
+        {
+          "bytes": 1072,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/zod@4.6.7--1a876f59/LICENSE",
+          "readEntireFile": true,
+          "sha256": "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8",
+          "source": "node_modules/zod/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": false,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": true,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/zod/-/zod-4.6.7.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "4.6.7"
+    },
+    {
+      "declaredLicense": "ISC",
+      "fullDeclaredTermsFound": true,
+      "integrity": "sha512-O/PgfnpT1xKSDeQYSCfRI5Gy3hPf91mKVDuYLUHZJMiDFptvP41MSnWofm8dnCm0256ZNfZIM7DSzuSMAFnjHA==",
+      "lockPath": "node_modules/zod-to-json-schema",
+      "manifestMatched": true,
+      "name": "zod-to-json-schema",
+      "noticeArtifacts": [
+        {
+          "bytes": 745,
+          "copiedBytesMatchSource": true,
+          "kind": "named_notice",
+          "path": "docs/notices/zod-to-json-schema@3.25.2--57d48f5b/LICENSE",
+          "readEntireFile": true,
+          "sha256": "80d3168ad2f70f6f5bb2ab22b23414707abf6f0a392034891481ae36a1a429d4",
+          "source": "node_modules/zod-to-json-schema/LICENSE",
+          "textEvidence": {
+            "hasApache2Terms": false,
+            "hasBSDRedistribution": false,
+            "hasCopyrightText": true,
+            "hasISCPermission": true,
+            "hasLiabilityDisclaimer": true,
+            "hasMITPermission": false,
+            "hasWarrantyDisclaimer": true,
+            "validUtf8": true
+          }
+        }
+      ],
+      "resolved": "https://registry.npmjs.org/zod-to-json-schema/-/zod-to-json-schema-3.25.2.tgz",
+      "termCheck": "FULL_DECLARED_TERMS_FOUND_BY_BOUNDED_TEXT_CHECK",
+      "version": "3.25.2"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": {
+    "cloudSdkInTree": false,
+    "coreTarballAudit": {
+      "fileSetExact": true,
+      "installedFilesByteMatched": 9,
+      "integrity": "sha512-DYe1dQclUvhjjTu/5Y6+hSNS0Jg3xMPeaYYoILk/cVueIve1AG6YyMfjSmIYZ+khNoyD7bCTqh8jm8dH9+o3Ww==",
+      "name": "@mozaik-ai/core",
+      "status": "PASS",
+      "tarballFileCount": 9,
+      "tarballSha256": "9f568e73329e0af5a234d7ad079ee41cfd272fd356ab702fb946bdafc364ff29",
+      "version": "4.0.0-beta.8"
+    },
+    "distinctPackageNames": 137,
+    "installedPackageEntries": 141,
+    "lockfileVersion": 3,
+    "nodeEngineDeclared": ">=24",
+    "packageLockSha256": "c9ad1db836fa5945f75c326d486b98c8f4ee259ed3b1a3507b3e1dd4333a69a6",
+    "rootName": "planpatch",
+    "rootPackageJsonSha256": "2abb3ecac9674d079bb970ddde151e30f9686d5b42afb3bb134a9de4da8c9e52",
+    "rootVersion": "0.1.0"
+  },
+  "summary": {
+    "copiedNoticeArtifacts": 144,
+    "fullDeclaredTermsPackages": 141,
+    "historicalItemsOpen": 2,
+    "missingFullDeclaredTermsPackages": 0,
+    "missingNoticePackages": 0,
+    "noticeBytes": 249034,
+    "noticePackages": 141,
+    "packageEntries": 141
+  },
+  "unresolvedItems": [
+    {
+      "id": "R01-HISTORY",
+      "status": "OPEN_HISTORY — no upstream response was received. Cloud SDK is absent from the current lock/install; that does not resolve historical rights.",
+      "subject": "Historical Cloud SDK licensing inquiry"
+    },
+    {
+      "id": "R02-HISTORY",
+      "status": "OPEN_HISTORY — no upstream response was received. Historical examples are excluded from the current release scope; that does not resolve historical rights.",
+      "subject": "Historical official examples reuse inquiry"
+    }
+  ]
+}

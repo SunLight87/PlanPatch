@@ -1,0 +1,15 @@
+{
+  "name": "planpatch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-linked plan revisions by concurrent Mozaik agents",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs",
+    "demo": "node scripts/run-demo.mjs",
+    "verify": "node scripts/verify-artifacts.mjs"
+  },
+  "dependencies": { "@mozaik-ai/core": "4.0.0-beta.8" }
+}

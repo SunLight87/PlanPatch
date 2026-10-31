@@ -1,0 +1,14 @@
+{
+  "id": "community-no-change",
+  "title": "社区活动：材料已一致，无需改写",
+  "synthetic": true,
+  "original": { "title": "周末社区手作体验", "date": "2026-11-08", "time": "14:00–16:00", "location": "社区活动室", "capacity": 24, "registered": 20, "waitlist": 0, "weatherBackup": "待确认" },
+  "attachment": { "time": "14:00–16:00", "capacity": 24, "registered": 20, "waitlist": 0 },
+  "sources": [
+    { "id": "venue", "title": "场地确认（合成）", "text": "社区活动室可容纳24人，可用时段14:00–16:00。" },
+    { "id": "registration", "title": "报名汇总（合成）", "text": "已登记报名20人，未超过场地名额，无需候补。" },
+    { "id": "backup", "title": "待确认事项（合成）", "text": "雨天备用安排尚未确认，继续保留待确认状态，不得宣称已落实。" }
+  ],
+  "constraints": ["无新证据时不为改写而改写", "所有材料和数字均为本地合成示例"],
+  "expected": { "time": "14:00–16:00", "capacity": 24, "registered": 20, "waitlist": 0, "weatherBackup": "待确认" }
+}

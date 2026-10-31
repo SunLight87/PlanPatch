@@ -1,0 +1,22 @@
+{
+  "productRevision": "e4c3b98126c76268ae0a2cb8938288377945ef04470203097dfc69a35bade4b5",
+  "fullOfflineTests": {
+    "passed": 205,
+    "failed": 0
+  },
+  "independentRelatedTests": {
+    "passed": 187,
+    "failed": 0
+  },
+  "independentBoundaryCases": {
+    "passed": 4,
+    "failed": 0
+  },
+  "freshInstallation": "PASS_SAME_MACHINE_NEW_DIRECTORY",
+  "dependencyNoticeFiles": 144,
+  "dependencyEntries": 141,
+  "currentVersionLive": "PENDING_EXPLICIT_RECOVERY_CONFIRMATION",
+  "humanSemanticReview": "NOT_RUN",
+  "platformSubmission": "NOT_SUBMITTED",
+  "readyToSubmit": false
+}

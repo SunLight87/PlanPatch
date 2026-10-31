@@ -1,0 +1,23 @@
+{
+  "id": "community-update",
+  "title": "社区手作活动：场地缩容后的方案修订",
+  "synthetic": true,
+  "original": {
+    "title": "周末社区手作体验",
+    "date": "2026-11-08",
+    "time": "10:00–12:00",
+    "location": "社区活动室",
+    "capacity": 40,
+    "registered": 36,
+    "waitlist": 0,
+    "weatherBackup": "已确认"
+  },
+  "attachment": { "time": "10:00–12:00", "capacity": 40, "registered": 36, "waitlist": 0 },
+  "sources": [
+    { "id": "venue", "title": "场地管理员更新（合成）", "text": "2026年11月8日社区活动室因设施检修，实际容纳人数上限为24人。可用时段改为14:00–16:00。以上约束已确认，不能使用原来40人、10:00–12:00的安排。" },
+    { "id": "registration", "title": "报名汇总（合成）", "text": "已登记报名36人。若场地名额不足，超出名额的报名者应列入候补，不得直接宣称所有报名者均可到场。尚未取得第二场活动的场地许可。" },
+    { "id": "backup", "title": "筹备待办（合成）", "text": "雨天备用安排尚未确认，需要向管理员核实。没有备用场地的正式确认材料，不能写成已经落实。" }
+  ],
+  "constraints": ["不新增场次或编造场地许可", "方案与报名附件中的人数及时间必须一致", "保留未确认事项", "所有材料和数字均为本地合成示例，不代表真实活动"],
+  "expected": { "time": "14:00–16:00", "capacity": 24, "registered": 36, "waitlist": 12, "weatherBackup": "待确认" }
+}

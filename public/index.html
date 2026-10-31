@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#f5f8f7" />
+    <title>PlanPatch · 活动方案工作台</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到工作区</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#top" aria-label="PlanPatch 工作台首页">
+          <span class="brand-mark" aria-hidden="true">P</span>
+          <span class="brand-name">PlanPatch</span>
+        </a>
+        <div class="header-state" aria-label="当前工作模式">
+          <span class="state-dot" aria-hidden="true"></span>
+          <span id="headerMode">正在连接本地服务</span>
+          <span class="live-off-label">LIVE 不可用</span>
+        </div>
+      </div>
+    </header>
+
+    <main id="main-content" class="page-shell">
+      <section class="page-intro" id="top" aria-labelledby="page-title">
+        <h1 id="page-title">社区活动方案工作台</h1>
+        <p class="page-subtitle">检查原始计划、查看有来源依据的修改，并保留每一步的决策记录。</p>
+      </section>
+
+      <section class="mode-notice" aria-labelledby="mode-notice-title">
+        <div class="notice-copy">
+          <h2 id="mode-notice-title">当前为 MOCK 演示模式</h2>
+          <p>不会调用真实模型；LIVE 不可用。</p>
+        </div>
+        <details class="notice-details">
+          <summary>演示限制</summary>
+          <p>响应来自确定性模拟推理，不会调用真实模型；真实模型请求数为 0。LIVE 目前不可用，本演示不能证明 A01/A02 的真实请求并发或产品验收结果。</p>
+        </details>
+      </section>
+
+      <div class="workspace-grid">
+        <aside class="input-column" aria-label="样本与运行控制">
+          <section class="input-panel surface" aria-labelledby="input-heading">
+            <div class="section-heading"><h2 id="input-heading">选择活动样本</h2></div>
+            <label class="field-label" for="sampleSelect">本地合成样本</label>
+            <select id="sampleSelect" class="sample-select" disabled aria-describedby="sampleHint">
+              <option value="">正在读取样本列表…</option>
+            </select>
+            <p class="field-hint" id="sampleHint">样本仅从本地服务读取；切换样本不会运行分析。</p>
+
+            <div class="sample-summary" id="sampleSummary" aria-live="polite">
+              <strong id="sampleTitle">正在连接本地服务…</strong>
+              <div class="summary-meta" id="sampleMeta">—</div>
+            </div>
+
+            <div class="actions-block" aria-label="运行操作">
+              <button id="startButton" class="button button-primary" type="button" disabled>
+                <svg class="button-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                  <path d="M8 5.75v12.5L18 12 8 5.75Z" />
+                </svg>
+                <span>开始离线检查</span>
+              </button>
+              <div class="secondary-actions">
+                <button id="stopButton" class="button button-secondary" type="button" disabled>停止运行</button>
+                <button id="freezeButton" class="button button-secondary" type="button" disabled>冻结并导出</button>
+              </div>
+              <p id="actionStatus" class="action-status" role="status" aria-live="polite">尚未开始运行。</p>
+            </div>
+
+            <div class="source-preview-block">
+              <div class="subsection-heading">
+                <h3>输入来源预览</h3>
+                <span id="sourceCount" class="count-label">0 项</span>
+              </div>
+              <div id="sampleSourceList" class="sample-source-list" aria-live="polite">
+                <p class="empty-note">正在读取来源…</p>
+              </div>
+            </div>
+          </section>
+
+          <section class="integrity-panel" aria-labelledby="integrity-heading">
+            <div class="section-heading compact-heading"><h2 id="integrity-heading">运行边界</h2></div>
+            <ul class="guardrail-list">
+              <li><span class="guardrail-check" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="m3.5 8.2 2.8 2.7 6.2-6" /></svg></span><span>只使用当前选择的本地样本</span></li>
+              <li><span class="guardrail-check" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="m3.5 8.2 2.8 2.7 6.2-6" /></svg></span><span>页面不读取密钥或本地文件</span></li>
+              <li><span class="guardrail-check" aria-hidden="true"><svg viewBox="0 0 16 16" focusable="false"><path d="m3.5 8.2 2.8 2.7 6.2-6" /></svg></span><span>导出仅在服务返回冻结包后触发</span></li>
+            </ul>
+          </section>
+        </aside>
+
+        <section id="resultsRoot" class="results-column" aria-labelledby="results-heading" aria-busy="false">
+          <div class="results-topline">
+            <h2 id="results-heading">方案与运行记录</h2>
+            <div class="run-state-wrap">
+              <span id="runState" class="status-pill status-idle">尚未运行</span>
+              <span id="runMode" class="mode-pill">MOCK</span>
+              <span class="request-count">真实模型请求 <strong id="generationCount">0</strong></span>
+            </div>
+          </div>
+
+          <details class="run-meta-disclosure">
+            <summary>运行技术信息</summary>
+            <div class="run-meta">
+              <div class="run-meta-item"><span class="meta-label">运行 ID</span><code id="runId">—</code></div>
+              <div class="run-meta-item"><span class="meta-label">方案版本</span><span id="proposalVersion">—</span></div>
+              <div class="run-meta-item"><span class="meta-label">证据版本</span><span id="evidenceVersion">—</span></div>
+              <div class="run-meta-item"><span class="meta-label">验收状态</span><span id="acceptanceStatus">NOT_CHECKED</span></div>
+            </div>
+          </details>
+
+          <section class="plan-panel surface" aria-labelledby="plan-heading">
+            <div class="section-heading plan-heading">
+              <h3 id="plan-heading">原方案与修订方案</h3>
+              <span class="change-legend"><span class="change-swatch" aria-hidden="true"></span>浅色字段已标注变化</span>
+            </div>
+            <p class="table-scroll-hint">左右滑动查看完整对照</p>
+            <div class="table-scroll" tabindex="0" aria-label="方案字段比较，可横向滚动">
+              <table class="comparison-table">
+                <caption class="visually-hidden">按字段比较原方案与修订方案</caption>
+                <thead><tr><th scope="col">字段</th><th scope="col">原方案</th><th scope="col">修订方案</th></tr></thead>
+                <tbody id="planRows">
+                  <tr><td class="table-empty" colspan="3">选择样本后显示原方案；运行后显示修订结果。</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <p id="planFootnote" class="panel-footnote">尚无运行结果。修订字段将在方案生成后标出。</p>
+          </section>
+
+          <section class="secondary-section attachment-panel" aria-labelledby="attachment-heading">
+            <div class="section-heading compact-heading">
+              <h3 id="attachment-heading">附件信息核对</h3><span class="mini-caption">当前方案 / 当前附件</span>
+            </div>
+            <p class="table-scroll-hint">左右滑动查看完整对照</p>
+            <div class="table-scroll" tabindex="0" aria-label="附件字段比较，可横向滚动">
+              <table class="attachment-table">
+                <caption class="visually-hidden">核对当前方案与当前附件是否一致</caption>
+                <thead><tr><th scope="col">核对项</th><th scope="col">当前方案</th><th scope="col">附件记录</th><th scope="col">差异</th></tr></thead>
+                <tbody id="attachmentRows">
+                  <tr><td class="table-empty" colspan="4">读取样本后显示附件字段。</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
+
+          <section class="secondary-section agents-panel" aria-labelledby="agents-heading">
+            <div class="section-heading compact-heading"><h3 id="agents-heading">协作代理状态</h3><span class="mini-caption">A · B · C</span></div>
+            <div id="agentCards" class="agent-grid"><p class="empty-note">运行后显示代理状态。</p></div>
+          </section>
+
+          <div class="detail-grid">
+            <section class="detail-panel evidence-panel" aria-labelledby="evidence-heading">
+              <div class="section-heading compact-heading"><h3 id="evidence-heading">来源与发现</h3></div>
+              <div id="findingList" class="stack-list"><p class="empty-note">运行后显示发现和来源链接。</p></div>
+              <div class="evidence-sources-heading">
+                <h4>运行中使用的来源</h4><span id="resultSourceCount" class="count-label">0 项</span>
+              </div>
+              <div id="resultSourceList" class="result-source-list"><p class="empty-note">暂无来源快照。</p></div>
+            </section>
+
+            <div class="detail-stack">
+              <section class="detail-panel" aria-labelledby="unresolved-heading">
+                <div class="section-heading compact-heading"><h3 id="unresolved-heading">仍待确认</h3><span id="unresolvedCount" class="count-label">0 项</span></div>
+                <div id="unresolvedList" class="stack-list"><p class="empty-note">暂无待确认事项。</p></div>
+              </section>
+              <section class="detail-panel" aria-labelledby="decisions-heading">
+                <div class="section-heading compact-heading"><h3 id="decisions-heading">决策记录</h3><span id="decisionCount" class="count-label">0 项</span></div>
+                <div id="decisionList" class="stack-list"><p class="empty-note">运行后显示方案决策轨迹。</p></div>
+              </section>
+            </div>
+          </div>
+
+          <div class="detail-grid lower-grid">
+            <section class="detail-panel" aria-labelledby="checks-heading">
+              <div class="section-heading compact-heading"><h3 id="checks-heading">检查结果</h3><span id="checkCount" class="count-label">0 项</span></div>
+              <div id="checkList" class="stack-list"><p class="empty-note">运行后显示检查结果。</p></div>
+            </section>
+            <details class="timeline-disclosure" aria-labelledby="timeline-heading">
+              <summary class="section-heading compact-heading"><h3 id="timeline-heading">事件时间线</h3><span id="eventCount" class="count-label">0 项</span></summary>
+              <ol id="eventTimeline" class="timeline-list" aria-label="运行事件时间线">
+                <li class="timeline-empty">运行后显示事件轨迹。</li>
+              </ol>
+            </details>
+          </div>
+        </section>
+      </div>
+
+      <footer class="page-footer">
+        <span>PlanPatch · 本地原型界面</span>
+        <span>运行结果仅反映当前 API 快照</span>
+      </footer>
+    </main>
+  </body>
+</html>
