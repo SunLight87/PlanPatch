@@ -18,6 +18,14 @@ Open **http://127.0.0.1:4317**. Choose a sample, run the check, follow its sourc
 
 The web demo is explicitly **MOCK**: real Mozaik Agent instances and runtime events execute with deterministic local inference. It sends no model requests. There are no credentials or production spending records in this repository.
 
+## Screenshots — MOCK
+
+Actual screenshots of the current local demo, using deterministic inference and fictional materials. These are not live model outputs.
+
+![PlanPatch MOCK workbench](docs/images/workbench.png)
+
+[Revision, attachment consistency and unresolved items](docs/images/revision-details.png)
+
 ## Concurrent collaboration
 
 1. **A — facts** and **B — review** start on separate Mozaik Agent instances at the same time.
@@ -31,7 +39,7 @@ The main scenario changes a venue capacity from 40 to 24, keeps 36 registrations
 
 The current source passed **205 offline tests**, a fresh installation in a separate local directory, and independent checks of the budget/recovery logic. These checks do not establish real model quality. See [current verification](evidence/current-verification.json) and the [complete source manifest](evidence/product-revision.json).
 
-The real-provider entry is separate from the web demo. A previous attempt timed out. The current version's one-time recovery is awaiting explicit confirmation under the original fixed budget; **current-version LIVE acceptance is not yet complete**. No speedup, live effectiveness or competition acceptance is claimed.
+The real-provider entry is separate from the web demo. On 31 October 2026 at 10:09 UTC, both metadata requests timed out before an HTTP response; subsequent TLS checks also timed out. Recovery stopped before activation or any new generation request. The cause is unknown. **Current-version LIVE acceptance is not complete.** See the [connection check](evidence/connection-check.json) and [release status](evidence/release-status.json). No live effectiveness, speedup or competition acceptance is claimed.
 
 The protocol is deliberately limited to the included short-plan domain. Free-text constraints require human review. Local cancellation does not prove remote cancellation. This is a prototype, not a general-purpose document editor.
 

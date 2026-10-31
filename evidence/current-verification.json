@@ -15,8 +15,11 @@
   "freshInstallation": "PASS_SAME_MACHINE_NEW_DIRECTORY",
   "dependencyNoticeFiles": 144,
   "dependencyEntries": 141,
-  "currentVersionLive": "PENDING_EXPLICIT_RECOVERY_CONFIRMATION",
+  "currentVersionLive": "BLOCKED_TRANSPORT_PREFLIGHT",
   "humanSemanticReview": "NOT_RUN",
   "platformSubmission": "NOT_SUBMITTED",
-  "readyToSubmit": false
+  "readyToSubmit": false,
+  "connectionCheck": "connection-check.json",
+  "statusUpdatedAt": "2026-10-31T10:17:29.862213+00:00",
+  "testsRerunForThisStatusUpdate": false
 }

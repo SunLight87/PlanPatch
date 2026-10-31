@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "status": "BLOCKED_TRANSPORT_PREFLIGHT",
+  "checkedAt": "2026-10-31T10:09:21.223Z",
+  "targetHost": "developer.amd.com.cn",
+  "sources": [
+    {
+      "type": "native HTTPS metadata preflight",
+      "recordedAt": "2026-10-31T10:09:21.223Z",
+      "runtime": "Node.js 24.15.0",
+      "conditions": "Two metadata-only GETs; no retries, redirects, proxy changes, or credentials stored."
+    },
+    {
+      "type": "same-host TCP/TLS follow-up diagnostic",
+      "provenance": "Operator-recorded diagnostic from the current recovery session.",
+      "timing": "After the metadata preflight in the same session; exact handshake start timestamps were not recorded."
+    }
+  ],
+  "metadataRequests": [
+    {
+      "method": "GET",
+      "path": "/radeon/api/v1/models",
+      "startedAt": "2026-10-31T10:09:10.542Z",
+      "result": "UND_ERR_CONNECT_TIMEOUT",
+      "elapsedMs": 10680,
+      "httpResponseReceived": false
+    },
+    {
+      "method": "GET",
+      "path": "/radeon/api/v1/usage?include_recent=false",
+      "startedAt": "2026-10-31T10:09:10.578Z",
+      "result": "UND_ERR_CONNECT_TIMEOUT",
+      "elapsedMs": 10645,
+      "httpResponseReceived": false
+    }
+  ],
+  "followUpDiagnostics": [
+    {
+      "layer": "TCP",
+      "destinationAddress": "143.64.80.214",
+      "result": "CONNECT_SUCCEEDED"
+    },
+    {
+      "layer": "TLS",
+      "client": "Node.js",
+      "timeoutSeconds": 12,
+      "result": "TIMEOUT_NO_HTTP_RESPONSE"
+    },
+    {
+      "layer": "TLS",
+      "client": "Python certificate verification enabled",
+      "timeoutSeconds": 8,
+      "result": "TIMEOUT_NO_HTTP_RESPONSE"
+    }
+  ],
+  "recoveryEffect": {
+    "metadataGets": 2,
+    "generationPosts": 0,
+    "recoveryTicketCreated": false,
+    "recoveryActivationPerformed": false,
+    "historicalCountedHolds": 3,
+    "historicalHoldReason": "TIMEOUT",
+    "newHoldsCounted": 0
+  },
+  "limits": [
+    "This records a single timestamped preflight and follow-up diagnostic; it does not establish current availability outside this observation window.",
+    "TCP connectivity does not establish TLS or HTTP availability.",
+    "The available evidence cannot determine whether the timeout originated at the remote endpoint or along the network/TLS path.",
+    "No HTTP response or generation result was received; no provider outage or live-model acceptance is inferred."
+  ],
+  "reportRecordedAt": "2026-10-31T10:17:29.862213+00:00"
+}

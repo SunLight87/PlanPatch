@@ -1,5 +1,5 @@
 {
-  "packageStatus": "REVIEWED_SOURCE_CANDIDATE_LIVE_PENDING",
+  "packageStatus": "REVIEWED_SOURCE_CANDIDATE_BLOCKED_TRANSPORT_PREFLIGHT",
   "productRevision": "e4c3b98126c76268ae0a2cb8938288377945ef04470203097dfc69a35bade4b5",
   "fullOfflineTests": {
     "passed": 205,
@@ -16,8 +16,24 @@
   "freshInstallation": "PASS_SAME_MACHINE_NEW_DIRECTORY",
   "dependencyNoticeFiles": 144,
   "dependencyEntries": 141,
-  "currentVersionLive": "PENDING_EXPLICIT_RECOVERY_CONFIRMATION",
+  "currentVersionLive": "BLOCKED_TRANSPORT_PREFLIGHT",
   "humanSemanticReview": "NOT_RUN",
   "platformSubmission": "NOT_SUBMITTED",
-  "readyToSubmit": false
+  "readyToSubmit": false,
+  "connectionCheck": {
+    "evidence": "evidence/connection-check.json",
+    "observedAt": "2026-10-31T10:09:10.542Z/2026-10-31T10:09:21.223Z",
+    "metadataGets": 2,
+    "generationPosts": 0,
+    "httpResponseReceived": false,
+    "rootCause": "UNKNOWN"
+  },
+  "recoveryPreflight": {
+    "ticketCreated": false,
+    "activationPerformed": false,
+    "historicalCountedHolds": 3,
+    "historicalHoldReason": "TIMEOUT",
+    "newGenerationPosts": 0
+  },
+  "updatedAt": "2026-10-31T10:17:29.862213+00:00"
 }
